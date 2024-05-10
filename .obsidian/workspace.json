@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d5c42d6903ef34bc",
+        "id": "1a20a21d910cba6e",
         "type": "tabs",
         "children": [
           {
-            "id": "632d0c0387deb3c8",
+            "id": "ada8a9ca0e07e315",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "App/App.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.50152587890625
+    "width": 283.51103591918945
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App/App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "App/App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "App/App.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,11 +160,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "632d0c0387deb3c8",
+  "active": "ada8a9ca0e07e315",
   "lastOpenFiles": [
-    "Cloud Computing.md",
     "Youtube/Sherlock.md",
     "App/App.md",
+    "Cloud Computing.md",
     "Youtube",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
