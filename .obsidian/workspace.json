@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "056b8f8461a305db",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfa8d50d8e1b36e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac7cb333fe8b646",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc59fb5b816b0e28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc0de1c308745bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c74652eda4109685",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77b15d39adb6d283",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6bca8eb4291b3a17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2efc1bf3c4ef1d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8086984aa016e3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1d22b0e48e14c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a379a64939d6085a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f3634f518e89a67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4111a9f703963b41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "db248921502f7011",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "9ac7cb333fe8b646",
+  "lastOpenFiles": [
+    "Recording 20240820183644.webm",
+    "Operating Systems/Memory Manangement.md",
+    "2024-08-20.md",
+    "Untitled.canvas",
+    "Operating Systems/Types of Operating Systems.md",
+    "Operating Systems",
+    "Welcome.md"
+  ]
+}
