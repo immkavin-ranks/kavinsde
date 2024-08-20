@@ -46,4 +46,3 @@ Mark means 1, => telegraphy term, So, Alternate 1 inversion.
 >HDB3 substitutes four consecutive zeros with 000V or BOOV depending on the number of nonzero pulses after the last substitution.
 
 ![[Pasted image 20240821000841.png]]
-/git
