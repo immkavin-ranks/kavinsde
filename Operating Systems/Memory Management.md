@@ -5,3 +5,4 @@
 5. Demand Paged Memory Management
 6. Segmented Memory Management
 7. Segmented and Demand Paged Memory Management
+8. Other memory management techniques (Swapping, Overlays)

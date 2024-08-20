@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa8d50d8e1b36e1",
+        "id": "c29a6a3d670a8c5e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ac7cb333fe8b646",
+            "id": "575602281e56e1b6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -132,17 +134,25 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "df4ec6e4b0e3ad15",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,10 +162,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9ac7cb333fe8b646",
+  "active": "575602281e56e1b6",
   "lastOpenFiles": [
+    "Operating Systems/Memory Management.md",
     "Recording 20240820183644.webm",
-    "Operating Systems/Memory Manangement.md",
     "2024-08-20.md",
     "Untitled.canvas",
     "Operating Systems/Types of Operating Systems.md",
