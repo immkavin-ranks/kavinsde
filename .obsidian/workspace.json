@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c29a6a3d670a8c5e",
+        "id": "f956d2a279bc15c3",
         "type": "tabs",
         "children": [
           {
-            "id": "575602281e56e1b6",
+            "id": "6d4bde7fca8b802c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data and Communication networks/Digital-to-Digital Conversion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -83,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data and Communication networks/Digital-to-Digital Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data and Communication networks/Digital-to-Digital Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data and Communication networks/Digital-to-Digital Conversion.md"
+              }
             }
           },
           {
@@ -148,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 290.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -162,8 +168,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "575602281e56e1b6",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
+    "Data and Communication networks/Pasted image 20240821000841.png",
+    "Data and Communication networks/Pasted image 20240821000444.png",
+    "Data and Communication networks/Pasted image 20240820235211.png",
+    "Data and Communication networks/Pasted image 20240820234053.png",
+    "Data and Communication networks/Pasted image 20240820233716.png",
+    "Data and Communication networks/Pasted image 20240820233639.png",
+    "Data and Communication networks/Pasted image 20240820233702.png",
+    "Data and Communication networks/Digital-to-Digital Conversion.md",
+    "Data and Communication networks/Pasted image 20240820233738.png",
+    "Data and Communication networks/Pasted image 20240820190648.png",
+    "Data and Communication networks",
+    "Untitled.md",
     "Operating Systems/Memory Management.md",
     "Recording 20240820183644.webm",
     "2024-08-20.md",
