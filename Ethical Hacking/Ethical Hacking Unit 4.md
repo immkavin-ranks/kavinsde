@@ -130,4 +130,6 @@ The session fixation attack works by assigning a fixed session number that the v
 * Using more secure protocols can also be a big help. FTP and Telnet are vulnerable if remote access is required; at least move to SSH or some secure form of Telnet.
 # Denial of Service and Distributed Denial of Service
 
-/com
+#TODO
+
+/comm
