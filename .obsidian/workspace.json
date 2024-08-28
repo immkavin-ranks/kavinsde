@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fc6f89d554f793dd",
+        "id": "7fb336321eb58f81",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca63aceffb20a60",
+            "id": "1c74076168732cd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.51103591918945
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ethical Hacking/Ethical Hacking Unit 4.md"
+              }
             }
           },
           {
@@ -157,29 +165,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2ca63aceffb20a60",
+  "active": "1c74076168732cd8",
   "lastOpenFiles": [
-    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
-    "[[Pasted.md",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240820235211.png",
+    "Ethical Hacking/Suresh.md",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "Ethical Hacking/assets/Pasted image 20240826204507.png",
+    "Ethical Hacking/assets/Pasted image 20240826204345.png",
+    "Ethical Hacking/assets/Pasted image 20240826194736.png",
+    "Ethical Hacking/assets",
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
-    "Data and Communication networks/The OSI Model",
+    "Data and Communication networks/D-D Conversion/assets",
+    "Data and Communication networks/A-D Conversion/assets",
+    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
+    "Ethical Hacking",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
-    "Data and Communication networks/A-D Conversion/Pasted image 20240821003827.png",
-    "Data and Communication networks/A-D Conversion/Pasted image 20240821003151.png",
-    "Data and Communication networks/A-D Conversion/Pasted image 20240821002317.png",
+    "[[Pasted.md",
+    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820235211.png",
+    "Data and Communication networks/The OSI Model",
+    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003827.png",
+    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003151.png",
+    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821002317.png",
     "Data and Communication networks/A-D Conversion",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240820190648.png",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240820233716.png",
+    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820190648.png",
+    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820233716.png",
     "Data and Communication networks/D-D Conversion",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240821000841.png",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240821000444.png",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240820234053.png",
-    "Data and Communication networks/D-D Conversion/Pasted image 20240820233639.png",
+    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240821000841.png",
     "Data and Communication networks",
     "Operating Systems/Memory Management.md",
     "Recording 20240820183644.webm",
