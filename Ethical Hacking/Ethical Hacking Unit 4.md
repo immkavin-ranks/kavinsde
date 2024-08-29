@@ -130,6 +130,55 @@ The session fixation attack works by assigning a fixed session number that the v
 * Using more secure protocols can also be a big help. FTP and Telnet are vulnerable if remote access is required; at least move to SSH or some secure form of Telnet.
 # Denial of Service and Distributed Denial of Service
 
-#TODO
+* There are three primary components to security: confidentiality, integrity, and availability. Hackers usually attack one or more of these core security tenets.  DoS targets availability.
+* Denial of service might not get the attacker access, but it does have the capability to disrupt your access to legitimate information and services. Denial of service is a blunt but powerful tool that is easy to launch but hard to prevent.
+* DoS attacks represent one of the biggest threats on the Internet. DoS attacks might target a user or an entire organization and can affect the availability of target systems or the entire network.
+## DoS Techniques
 
-/comm
+>The impact of DoS is the disruption of normal operations and normal communications.
+### Volumetric Attacks
+
+Volumetric attacks are carried out by blocking the communication capability of a machine or a group of machines to use network bandwidth. No matter how big the pipe, there is always a limit to the amount of bandwidth available. If the attacker can saturate the bandwidth, he can effectively block normal communications.
+### SYN Flood Attacks
+
+SYN flood attacks are carried out by directing the flood of traffic at an individual service on a machine. Unlike the bandwidth attack, a SYN flood can be thought of as a type of resource-starvation attack in that it attempts to overload the resources of a single system so that it becomes overloaded, hangs, or crashes. These attacks target availability but focus in on individual systems.
+### ICMP Attacks 
+
+ICMP attacks are carried out by flooding the victim with a large number of ICMP packets. The idea is to overwhelm the victim’s system with packets so it cannot respond to legitimate traffic.
+### Application-Level Attacks 
+
+Application-level attacks are carried out by causing a critical error on a machine to halt the machine’s capability of operating. These types of attacks (listed here) can occur when an attacker exploits a vulnerable program, sends a large amount of data, or sends weird, malformed packets.
+## Distributed Denial of Service
+
+DDoS attacks involve a multitude of compromised systems that are used to amplify the attack. An amplifying network might be used to bounce the traffic around, but the attack is still originating from one system. A DDoS takes the attack to the next level by using agents, handlers, and zombies.
+
+>Tracking the source of a DDoS attack is more difficult than DoS source tracking because of the distance between the attacker and victim.
+
+![[Pasted image 20240829205212.png]]
+
+* The DDoS attack also allows the attacker to maintain his distance from the actual target. The attacker can use the master systems to coordinate the attack and wait for the right moment to launch. 
+* Because the master systems consume little bandwidth or processing power, the fact that these systems have been compromised will probably not be noticed. 
+* After the zombies start to flood the victim with traffic, the attack can seem to be coming from everywhere, which makes it difficult to control or stop.
+
+>The components of the DDoS attack include software and hardware. 
+
+The two pieces of software are as follows: 
+* Client software: Used by the hacker to launch attacks, the client directs command and control packets to its subordinate hosts. 
+* Daemon software: The software running the zombie that receives incoming client command packets and acts on them. The daemon is the process responsible for actually carrying out the attack detailed in the control packets.
+
+The second piece needed for the DDoS attack is the actual hardware. This includes three items: 
+* The master: The system from which the client software is executed
+* The zombie: A subordinate system that executes the daemon process
+* The target: The object under attack
+## DoS and DDoS Countermeasures
+
+* Intrusion detection systems (IDS) can help play a part in defending against DoS attacks. Although they may not prevent the attack, they can help you detect it early on.
+* Activity profiling is performed by recording average packet rates and then flagging any flow deviations. This can be used to notify you that something is wrong.
+* Maximizing bandwidth and load balancing  can help in absorbing an attack and can buy a little more time for response. 
+* Throttling is another useful technique. The concept is to slow down requests performed on behalf of each user and even potentially block them if they do too many things in too short a time.
+## Best Practices to Prevent DoS
+
+* First, there is the principle of least privilege. Run the least number of services needed, and keep all other ports closed.
+* Second, implement bandwidth limitations. Bandwidth is really one big pipe. If attackers can fill the pipe with their traffic, they can block all traffic. One way to limit the amount of damage attackers can do is to limit how much of the bandwidth they can use.
+* Third, practice effective patch management. Many types of attacks, not just DoS, can be mitigated by effective patch management. Although patch management might not prevent a zero-day attack, it can help in the overall security of the network.
+* Fourth, allow only necessary traffic. You should also consider blocking addresses that are simply invalid. . Any port or service that is not needed should be blocked.

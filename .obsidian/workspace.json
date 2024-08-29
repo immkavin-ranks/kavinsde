@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +167,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df4ec6e4b0e3ad15",
+  "active": "1c74076168732cd8",
   "lastOpenFiles": [
+    "Pasted image 20240829205212.png",
     "Ethical Hacking/Suresh.md",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Ethical Hacking/assets/Pasted image 20240826204507.png",
