@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Two Sum.md",
+                "file": "DSA/Rotate Matrix.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.51103591918945
+    "width": 308.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Two Sum.md",
+                "file": "DSA/Rotate Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Two Sum.md",
+                "file": "DSA/Rotate Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Two Sum.md"
+                "file": "DSA/Rotate Matrix.md"
               }
             }
           },
@@ -171,7 +172,9 @@
   "active": "1c74076168732cd8",
   "lastOpenFiles": [
     "DSA/Best Time to Buy and Sell Stock.md",
+    "DSA/Rotate Matrix.md",
     "DSA/Two Sum.md",
+    "DSA/Untitled",
     "Operating Systems/Types of Operating Systems.md",
     "DSA",
     "Operating Systems/Memory Management.md",
@@ -199,7 +202,6 @@
     "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820233716.png",
     "Data and Communication networks/D-D Conversion",
     "Data and Communication networks",
-    "Recording 20240820183644.webm",
     "2024-08-20.md",
     "Untitled.canvas",
     "Welcome.md"
