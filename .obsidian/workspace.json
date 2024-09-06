@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb336321eb58f81",
+        "id": "51357f4d6c253018",
         "type": "tabs",
         "children": [
           {
-            "id": "1c74076168732cd8",
+            "id": "6a4529b1cf795e2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Rotate Matrix.md",
-                "mode": "preview",
+                "file": "Java/Exception Handling.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Rotate Matrix.md",
+                "file": "Java/Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Rotate Matrix.md",
+                "file": "Java/Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Rotate Matrix.md"
+                "file": "Java/Exception Handling.md"
               }
             }
           },
@@ -169,10 +169,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1c74076168732cd8",
+  "active": "6a4529b1cf795e2b",
   "lastOpenFiles": [
-    "DSA/Best Time to Buy and Sell Stock.md",
+    "Pasted image 20240906082344.png",
+    "Java/Exception Handling.md",
+    "Java",
     "DSA/Rotate Matrix.md",
+    "DSA/Best Time to Buy and Sell Stock.md",
     "DSA/Two Sum.md",
     "DSA/Untitled",
     "Operating Systems/Types of Operating Systems.md",
@@ -201,7 +204,6 @@
     "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820190648.png",
     "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820233716.png",
     "Data and Communication networks/D-D Conversion",
-    "Data and Communication networks",
     "2024-08-20.md",
     "Untitled.canvas",
     "Welcome.md"
