@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Exception Handling.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.51103591918945,
-    "collapsed": true
+    "width": 308.51103591918945
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Exception Handling.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Exception Handling.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Exception Handling.md"
+                "file": "Java/Exception Handling/Exception Handling.md"
               }
             }
           },
@@ -169,10 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6a4529b1cf795e2b",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
-    "Pasted image 20240906082344.png",
-    "Java/Exception Handling.md",
+    "Java/Exception Handling",
+    "Java/Exception Handling/Pasted image 20240906082344.png",
+    "Java/Exception Handling/Exception Handling.md",
     "Java",
     "DSA/Rotate Matrix.md",
     "DSA/Best Time to Buy and Sell Stock.md",
@@ -202,7 +202,6 @@
     "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821002317.png",
     "Data and Communication networks/A-D Conversion",
     "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820190648.png",
-    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820233716.png",
     "Data and Communication networks/D-D Conversion",
     "2024-08-20.md",
     "Untitled.canvas",
