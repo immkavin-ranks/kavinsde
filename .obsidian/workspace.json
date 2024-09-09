@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "536db6212df962af",
+        "id": "165a61e36abd5922",
         "type": "tabs",
         "children": [
           {
-            "id": "c2107162824d5fb8",
+            "id": "a6272a9eaab4545b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md"
+              }
             }
           },
           {
@@ -160,15 +168,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c2107162824d5fb8",
+  "active": "a6272a9eaab4545b",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Pasted.md",
+    "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
+    "Data and Communication networks/HDLC/Pasted image 20240909075536.png",
+    "Data and Communication networks/HDLC/Pasted image 20240909075010.png",
+    "Data and Communication networks/HDLC/Pasted image 20240909074357.png",
+    "Data and Communication networks/HDLC/Pasted image 20240909074337.png",
+    "Java/Exception Handling/Exception Handling.md",
+    "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
     "Recipe",
     "DSA/Maximum Subarray.md",
     "DSA/Two Sum.md",
     "DSA/Rotate Matrix.md",
-    "Java/Exception Handling/Exception Handling.md",
     "Java/Exception Handling",
     "Java/Exception Handling/Pasted image 20240906082344.png",
     "Java",
@@ -192,11 +206,6 @@
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "[[Pasted.md",
     "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820235211.png",
-    "Data and Communication networks/The OSI Model",
-    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003827.png",
-    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003151.png",
-    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821002317.png",
-    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820190648.png",
     "2024-08-20.md",
     "Untitled.canvas",
     "Welcome.md"

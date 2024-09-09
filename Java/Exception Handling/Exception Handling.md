@@ -136,7 +136,7 @@ class HandleError {
 				a = 0; // set a to zero and continue
 			}
 		System.out.println("a: " + a);
-	}
+		}
 	}
 }
 ```
