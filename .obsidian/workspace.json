@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Exception Handling/Exception Handling.md",
+                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Exception Handling/Exception Handling.md",
+                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Exception Handling/Exception Handling.md",
+                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Exception Handling/Exception Handling.md"
+                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md"
               }
             }
           },
@@ -170,18 +170,24 @@
   },
   "active": "1d2edc9b579acae9",
   "lastOpenFiles": [
-    "Java/Exception Handling/assets/Pasted image 20240906082344.png",
-    "Java/Exception Handling/assets",
-    "Java/Exception Handling/Exception Handling.md",
-    "Ethical Hacking/Ethical Hacking Unit 4.md",
-    "DSA/Best Time to Buy and Sell Stock.md",
+    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003827.png",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
-    "Data and Communication networks/HDLC/Pasted image 20240909075536.png",
-    "Data and Communication networks/HDLC/Pasted image 20240909074337.png",
+    "Data and Communication networks/HDLC/assets",
+    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
+    "Ethical Hacking/assets/Pasted image 20240826194736.png",
+    "Operating Systems/Memory Management.md",
+    "Operating Systems/Types of Operating Systems.md",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "Java/Exception Handling/Exception Handling.md",
+    "Java/Exception Handling/assets/Pasted image 20240906082344.png",
+    "Java/Exception Handling/assets",
+    "DSA/Best Time to Buy and Sell Stock.md",
+    "Data and Communication networks/HDLC/assets/Pasted image 20240909075536.png",
+    "Data and Communication networks/HDLC/assets/Pasted image 20240909074337.png",
     "Data and Communication networks/HDLC/Pasted image 20240909081114.png",
-    "Data and Communication networks/HDLC/Pasted image 20240909075010.png",
-    "Data and Communication networks/HDLC/Pasted image 20240909074357.png",
+    "Data and Communication networks/HDLC/assets/Pasted image 20240909075010.png",
+    "Data and Communication networks/HDLC/assets/Pasted image 20240909074357.png",
     "Pasted image 20240909081019.png",
     "Pasted.md",
     "Data and Communication networks/HDLC",
@@ -193,18 +199,13 @@
     "Java/Exception Handling",
     "Java",
     "DSA/Untitled",
-    "Operating Systems/Types of Operating Systems.md",
     "DSA",
-    "Operating Systems/Memory Management.md",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Ethical Hacking/assets/Pasted image 20240829205212.png",
     "Ethical Hacking/Suresh.md",
     "Ethical Hacking/assets/Pasted image 20240826204507.png",
-    "Ethical Hacking/assets/Pasted image 20240826204345.png",
     "Ethical Hacking/assets",
-    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
     "Data and Communication networks/D-D Conversion/assets",
-    "Data and Communication networks/A-D Conversion/assets",
     "[[Pasted.md",
     "2024-08-20.md",
     "Untitled.canvas",

@@ -7,7 +7,7 @@
 
 >The most common technique to change an analog signal to digital data (digitization) is called pulse code modulation (PCM). A PCM encoder has three processes,
 
-![Pasted image 20240821002317](Pasted%20image%2020240821002317.png)
+![Pasted image 20240821002317](assets/Pasted%20image%2020240821002317.png)
 
 1. The analog signal is sampled. 
 2. The sampled signal is quantized. 
@@ -19,9 +19,9 @@
 
 >According to the **Nyquist** theorem, to reproduce the original analog signal, one necessary condition is that the sampling rate be at least twice the highest frequency in the original signal
 
-![Pasted image 20240821003151](Pasted%20image%2020240821003151.png)
+![Pasted image 20240821003151](assets/Pasted%20image%2020240821003151.png)
 
-![Pasted image 20240821003827](Pasted%20image%2020240821003827.png)
+![Pasted image 20240821003827](assets/Pasted%20image%2020240821003827.png)
 
 ### Encoding
 
