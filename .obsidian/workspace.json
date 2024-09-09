@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "165a61e36abd5922",
+        "id": "df97af28b59c8395",
         "type": "tabs",
         "children": [
           {
-            "id": "a6272a9eaab4545b",
+            "id": "1d2edc9b579acae9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,14 +168,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a6272a9eaab4545b",
+  "active": "1d2edc9b579acae9",
   "lastOpenFiles": [
-    "Pasted.md",
-    "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
     "Data and Communication networks/HDLC/Pasted image 20240909075536.png",
+    "Data and Communication networks/HDLC/Pasted image 20240909074337.png",
+    "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
+    "Data and Communication networks/HDLC/Pasted image 20240909081114.png",
     "Data and Communication networks/HDLC/Pasted image 20240909075010.png",
     "Data and Communication networks/HDLC/Pasted image 20240909074357.png",
-    "Data and Communication networks/HDLC/Pasted image 20240909074337.png",
+    "Pasted image 20240909081019.png",
+    "Pasted.md",
     "Java/Exception Handling/Exception Handling.md",
     "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
@@ -197,7 +199,6 @@
     "Ethical Hacking/Suresh.md",
     "Ethical Hacking/assets/Pasted image 20240826204507.png",
     "Ethical Hacking/assets/Pasted image 20240826204345.png",
-    "Ethical Hacking/assets/Pasted image 20240826194736.png",
     "Ethical Hacking/assets",
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
     "Data and Communication networks/D-D Conversion/assets",
@@ -205,7 +206,6 @@
     "Ethical Hacking",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "[[Pasted.md",
-    "Data and Communication networks/D-D Conversion/assets/Pasted image 20240820235211.png",
     "2024-08-20.md",
     "Untitled.canvas",
     "Welcome.md"

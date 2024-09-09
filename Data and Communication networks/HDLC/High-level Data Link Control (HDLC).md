@@ -4,7 +4,7 @@
 HDLC provides two common transfer modes that can be used in different configurations: normal response mode (**NRM**) and asynchronous balanced mode (**ABM**). 
 In normal response mode (NRM), the station configuration is unbalanced. We have one primary station and multiple secondary stations. A primary station can send commands; a secondary station can only respond. 
 The NRM is used for both point-to-point and multipoint links.
-![[Pasted image 20240909074337.png]]
+![](Pasted%20image%2020240909074337.png)
 
 In ABM, the configuration is balanced. The link is point-to-point, and each station can function as a primary and a secondary (acting as peers).
 ![[Pasted image 20240909074357.png]]
