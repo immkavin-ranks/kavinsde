@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.51103591918945
+    "width": 356.5
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking/Ethical Hacking Unit 4.md",
+                "file": "Java/Exception Handling/Exception Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking/Ethical Hacking Unit 4.md"
+                "file": "Java/Exception Handling/Exception Handling.md"
               }
             }
           },
@@ -170,6 +170,10 @@
   },
   "active": "1d2edc9b579acae9",
   "lastOpenFiles": [
+    "Java/Exception Handling/assets/Pasted image 20240906082344.png",
+    "Java/Exception Handling/assets",
+    "Java/Exception Handling/Exception Handling.md",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
     "DSA/Best Time to Buy and Sell Stock.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
@@ -180,7 +184,6 @@
     "Data and Communication networks/HDLC/Pasted image 20240909074357.png",
     "Pasted image 20240909081019.png",
     "Pasted.md",
-    "Java/Exception Handling/Exception Handling.md",
     "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
     "Recipe",
@@ -188,13 +191,11 @@
     "DSA/Two Sum.md",
     "DSA/Rotate Matrix.md",
     "Java/Exception Handling",
-    "Java/Exception Handling/Pasted image 20240906082344.png",
     "Java",
     "DSA/Untitled",
     "Operating Systems/Types of Operating Systems.md",
     "DSA",
     "Operating Systems/Memory Management.md",
-    "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Ethical Hacking/assets/Pasted image 20240829205212.png",
     "Ethical Hacking/Suresh.md",
@@ -204,7 +205,6 @@
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
     "Data and Communication networks/D-D Conversion/assets",
     "Data and Communication networks/A-D Conversion/assets",
-    "Ethical Hacking",
     "[[Pasted.md",
     "2024-08-20.md",
     "Untitled.canvas",
