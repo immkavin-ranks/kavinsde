@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df97af28b59c8395",
+        "id": "9bbe5a0d6a0018b2",
         "type": "tabs",
         "children": [
           {
-            "id": "1d2edc9b579acae9",
+            "id": "2290d45564ad7413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
-                "mode": "source",
+                "file": "Certificates.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
+                "file": "Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
+                "file": "Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md"
+                "file": "Certificates.md"
               }
             }
           },
@@ -168,27 +168,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1d2edc9b579acae9",
+  "active": "2290d45564ad7413",
   "lastOpenFiles": [
-    "Data and Communication networks/A-D Conversion/assets/Pasted image 20240821003827.png",
+    "WhatsApp Image 2024-09-10 at 07.28.14_f560dc8e.jpg",
+    "WhatsApp Image 2024-09-10 at 07.28.13_be3e75e2.jpg",
+    "WhatsApp Image 2024-09-10 at 07.28.13_1ca84a85 1.jpg",
+    "WhatsApp Image 2024-09-09 at 22.43.41_b24d6e40.jpg",
+    "WhatsApp Image 2024-09-10 at 07.28.13_1ca84a85.jpg",
+    "WhatsApp Image 2024-09-09 at 22.43.04_3829e29e.jpg",
+    "WhatsApp Image 2024-09-09 at 20.04.41_f69b0870.jpg",
+    "WhatsApp Image 2024-09-09 at 19.48.36_fe4ca2b8.jpg",
+    "WhatsApp Image 2024-09-09 at 19.48.35_c113f79f.jpg",
+    "WhatsApp Image 2024-09-09 at 19.48.35_55b949a8.jpg",
+    "Certificates.md",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
     "Data and Communication networks/HDLC/assets",
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
-    "Ethical Hacking/assets/Pasted image 20240826194736.png",
     "Operating Systems/Memory Management.md",
     "Operating Systems/Types of Operating Systems.md",
-    "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Java/Exception Handling/Exception Handling.md",
-    "Java/Exception Handling/assets/Pasted image 20240906082344.png",
     "Java/Exception Handling/assets",
     "DSA/Best Time to Buy and Sell Stock.md",
-    "Data and Communication networks/HDLC/assets/Pasted image 20240909075536.png",
-    "Data and Communication networks/HDLC/assets/Pasted image 20240909074337.png",
-    "Data and Communication networks/HDLC/Pasted image 20240909081114.png",
-    "Data and Communication networks/HDLC/assets/Pasted image 20240909075010.png",
-    "Data and Communication networks/HDLC/assets/Pasted image 20240909074357.png",
-    "Pasted image 20240909081019.png",
     "Pasted.md",
     "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
@@ -200,10 +203,7 @@
     "Java",
     "DSA/Untitled",
     "DSA",
-    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
-    "Ethical Hacking/assets/Pasted image 20240829205212.png",
     "Ethical Hacking/Suresh.md",
-    "Ethical Hacking/assets/Pasted image 20240826204507.png",
     "Ethical Hacking/assets",
     "Data and Communication networks/D-D Conversion/assets",
     "[[Pasted.md",
