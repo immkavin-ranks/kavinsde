@@ -3,6 +3,7 @@
 ![](WhatsApp%20Image%202024-09-09%20at%2022.43.41_b24d6e40.jpg)
 ![](WhatsApp%20Image%202024-09-10%20at%2007.28.14_f560dc8e.jpg)
 ![](WhatsApp%20Image%202024-09-10%20at%2007.28.13_be3e75e2.jpg)
+![](WhatsApp%20Image%202024-09-10%20at%2018.24.54_9782e9d2.jpg)
 ![](WhatsApp%20Image%202024-09-09%20at%2020.04.41_f69b0870.jpg)
 ![](WhatsApp%20Image%202024-09-09%20at%2019.48.35_c113f79f.jpg)
 ![](WhatsApp%20Image%202024-09-09%20at%2019.48.35_55b949a8.jpg)
