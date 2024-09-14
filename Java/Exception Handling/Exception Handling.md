@@ -39,7 +39,7 @@ Here, `ExceptionType` is the type of exception that has occurred.
 
 The top-level exception hierarchy is shown here:
 
-![Pasted image 20240906082344](assets/Pasted%20image%2020240906082344.png)
+![Pasted image 20240906082344](attachments/Pasted%20image%2020240906082344.png)
 
 * One branch is headed by **`Exception`**. This class is used for exceptional conditions that user programs should catch. This is also the class that you will subclass to create your own **custom exception types**. There is an important subclass of Exception, called `RuntimeException`.
 * Exceptions of this type are automatically defined for the programs that you write and include things such as **division by zero** and **invalid array indexing**.

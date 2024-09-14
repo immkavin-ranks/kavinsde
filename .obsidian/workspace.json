@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b054b8a97cf72e51",
+        "id": "08c7dde8321b09b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b4d2af885fa9ce0d",
+            "id": "ca5c8a112ac7f3f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Certificates.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Certificates.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,32 +160,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c74652eda4109685",
+  "active": "ca5c8a112ac7f3f1",
   "lastOpenFiles": [
-    "Java/Exception Handling/Exception Handling.md",
-    "Kavin Docs/U22BCA141.md",
-    "WhatsApp Image 2024-09-12 at 14.37.03_4518414c.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-12 at 08.54.35_7f8663b9.jpg",
-    "Kavin Docs/assets",
+    "WhatsApp Image 2024-09-14 at 10.07.37_6843a567.jpg",
+    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
+    "App/App.md",
+    "DSA/Runtime/Time Complexity Prediction.md",
+    "DSA/Runtime/attachments/Pasted image 20240914145930.png",
+    "DSA/Runtime/attachments",
+    "DSA/Runtime/Pasted image 20240914145852.png",
+    "DSA/Runtime/assets/Pasted image 20240914145759.png",
+    "Pasted image 20240914145656.png",
+    "DSA/Runtime/assets",
+    "DSA/Runtime",
+    "App",
     "Certificates.md",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.14.03_2c81593a.jpg",
-    "WhatsApp Image 2024-09-10 at 18.24.54_9782e9d2.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.27.26_0dea978f.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.25.11_c81aa691.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.23.33_e15651b5.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.22.53_33686061.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.55.58_0d16dd45.jpg",
-    "Kavin Docs/assets/WhatsApp Image 2024-09-11 at 08.22.55_19532538.jpg",
+    "IMG-20240911-WA0002.jpg",
+    "IMG-20240911-WA0003.jpg",
+    "IMG-20240911-WA0004.jpg",
+    "WhatsApp Image 2024-09-09 at 19.48.35_55b949a8.jpg",
+    "WhatsApp Image 2024-09-09 at 19.48.35_c113f79f.jpg",
+    "Kavin Docs/U22BCA141.md",
+    "Java/Exception Handling/Exception Handling.md",
+    "Kavin Docs/attachments",
     "Kavin Docs",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
-    "Data and Communication networks/HDLC/assets",
-    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
+    "Data and Communication networks/HDLC/attachments",
     "Operating Systems/Memory Management.md",
     "Operating Systems/Types of Operating Systems.md",
-    "Java/Exception Handling/assets",
+    "Java/Exception Handling/attachments",
     "DSA/Best Time to Buy and Sell Stock.md",
     "Pasted.md",
     "Data and Communication networks/HDLC",
@@ -202,10 +200,6 @@
     "DSA/Maximum Subarray.md",
     "DSA/Two Sum.md",
     "DSA/Rotate Matrix.md",
-    "Java/Exception Handling",
-    "Java",
-    "DSA/Untitled",
-    "DSA",
     "Ethical Hacking/Suresh.md",
     "[[Pasted.md",
     "2024-08-20.md",

@@ -19,12 +19,12 @@
 
 >ARP is how network devices associate a specific MAC address with an IP address so that devices on the local network can find each other.
 
-![Pasted image 20240826194736](./assets/Pasted%20image%2020240826194736.png)
+![Pasted image 20240826194736](attachments/Pasted%20image%2020240826194736.png)
 
 * The method involves sending fake ARP requests or replies to the switch and other devices to attempt to steer traffic to the sniffing system. Fake ARP packets will be stored by the switch and by the other devices that receive the packets. The switch and these devices will place this information into the ARP cache and now map the attacker to the spoofed device. The MAC address being spoofed is usually the router so that the attacker can capture all outbound traffic.
 * The hacker can pull off many types of man-in-the-middle attacks. This includes passing on the packets to their true destination, scanning them for useful information, or recording the packets for a session replay later. IP forwarding is a critical step in this process. Without it, the attack will turn into DoS.
 
-![Pasted image 20240826204507](./assets/Pasted%20image%2020240826204507.png)
+![Pasted image 20240826204507](attachments/Pasted%20image%2020240826204507.png)
 ### MAC flooding
 
 >MAC flooding is the second primary way hackers can overcome the functionality of a switch. MAC flooding is the act of attempting to overload the switch’s content-addressable memory (CAM) table. 
@@ -154,7 +154,7 @@ DDoS attacks involve a multitude of compromised systems that are used to amplify
 
 >Tracking the source of a DDoS attack is more difficult than DoS source tracking because of the distance between the attacker and victim.
 
-![](assets/Pasted%20image%2020240829205212.png)
+![](attachments/Pasted%20image%2020240829205212.png)
 
 * The DDoS attack also allows the attacker to maintain his distance from the actual target. The attacker can use the master systems to coordinate the attack and wait for the right moment to launch. 
 * Because the master systems consume little bandwidth or processing power, the fact that these systems have been compromised will probably not be noticed. 

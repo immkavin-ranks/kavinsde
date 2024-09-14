@@ -4,10 +4,10 @@
 HDLC provides two common transfer modes that can be used in different configurations: normal response mode (**NRM**) and asynchronous balanced mode (**ABM**). 
 In normal response mode (NRM), the station configuration is unbalanced. We have one primary station and multiple secondary stations. A primary station can send commands; a secondary station can only respond. 
 The NRM is used for both point-to-point and multipoint links.
-![Pasted image 20240909074337](assets/Pasted%20image%2020240909074337.png)
+![Pasted image 20240909074337](attachments/Pasted%20image%2020240909074337.png)
 
 In ABM, the configuration is balanced. The link is point-to-point, and each station can function as a primary and a secondary (acting as peers).
-![Pasted image 20240909074357](assets/Pasted%20image%2020240909074357.png)
+![Pasted image 20240909074357](attachments/Pasted%20image%2020240909074357.png)
 # Framing
 
 To provide the flexibility necessary to support all the options possible in the modes and configurations just described, 
@@ -20,7 +20,7 @@ Each type of frame serves as an envelope for the transmission of a different typ
 
 Each frame in HDLC may contain up to *six* fields, a beginning flag field, an address field, a control field, an information field, a frame check sequence (**FCS**) field, and an ending flag field. In *multiple-frame transmissions*, the ending flag of one frame can serve as the beginning flag of the next frame
 
-![Pasted image 20240909075010](assets/Pasted%20image%2020240909075010.png)
+![Pasted image 20240909075010](attachments/Pasted%20image%2020240909075010.png)
 
 >The fields and their use in different frame types
 * ***Flag field***. This field contains synchronization pattern 01111110, which identifies both the beginning and the end of a frame.
@@ -30,5 +30,5 @@ Each frame in HDLC may contain up to *six* fields, a beginning flag field, an ad
 * ***FCS field.*** The frame check sequence (FCS) is the HDLC error detection field. It can contain either a 2- or 4-byte CRC.
 
 The control field determines the type of frame and defines its functionality.
-![Pasted image 20240909075536](assets/Pasted%20image%2020240909075536.png)
+![Pasted image 20240909075536](attachments/Pasted%20image%2020240909075536.png)
 ### *Control Field for I-Frames*
