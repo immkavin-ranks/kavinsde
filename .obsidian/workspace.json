@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08c7dde8321b09b6",
+        "id": "4e5f20182cd9ab5f",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5c8a112ac7f3f1",
+            "id": "74e7432745d83779",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md"
+              }
             }
           },
           {
@@ -160,11 +164,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "df4ec6e4b0e3ad15",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
-    "WhatsApp Image 2024-09-14 at 10.07.37_6843a567.jpg",
-    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
+    "Inter-collegiate",
     "App/App.md",
+    "Inter-collegiate/attachments/WhatsApp Image 2024-09-12 at 02.08.14_187cb3e1.jpg",
+    "Inter-collegiate/attachments/WhatsApp Image 2024-09-09 at 19.48.35_55b949a8.jpg",
+    "Java/Exception Handling/Exception Handling.md",
+    "Inter-collegiate/St. Joseph's College, Tiruchirappalli.md",
+    "Inter-collegiate/National College, Tiruchirappalli.md",
+    "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
+    "Inter-collegiate/attachments",
+    "Inter-collegiate/attachments/WhatsApp Image 2024-09-14 at 10.07.37_6843a567.jpg",
+    "Data and Communication networks/The OSI Model/Open System Interconnection.md",
     "DSA/Runtime/Time Complexity Prediction.md",
     "DSA/Runtime/attachments/Pasted image 20240914145930.png",
     "DSA/Runtime/attachments",
@@ -174,14 +186,10 @@
     "DSA/Runtime/assets",
     "DSA/Runtime",
     "App",
-    "Certificates.md",
-    "IMG-20240911-WA0002.jpg",
-    "IMG-20240911-WA0003.jpg",
-    "IMG-20240911-WA0004.jpg",
-    "WhatsApp Image 2024-09-09 at 19.48.35_55b949a8.jpg",
-    "WhatsApp Image 2024-09-09 at 19.48.35_c113f79f.jpg",
+    "Inter-collegiate/attachments/IMG-20240911-WA0002.jpg",
+    "Inter-collegiate/attachments/IMG-20240911-WA0003.jpg",
+    "Inter-collegiate/attachments/IMG-20240911-WA0004.jpg",
     "Kavin Docs/U22BCA141.md",
-    "Java/Exception Handling/Exception Handling.md",
     "Kavin Docs/attachments",
     "Kavin Docs",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
@@ -196,7 +204,6 @@
     "Pasted.md",
     "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
-    "Recipe",
     "DSA/Maximum Subarray.md",
     "DSA/Two Sum.md",
     "DSA/Rotate Matrix.md",
