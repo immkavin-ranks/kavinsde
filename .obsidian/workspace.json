@@ -11,8 +11,12 @@
             "id": "74e7432745d83779",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/AWT/AWT Controls.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
+                "file": "Java/AWT/AWT Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
+                "file": "Java/AWT/AWT Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md"
+                "file": "Java/AWT/AWT Controls.md"
               }
             }
           },
@@ -164,8 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c74652eda4109685",
+  "active": "74e7432745d83779",
   "lastOpenFiles": [
+    "Java/AWT/AWT Controls.md",
+    "Java/AWT/Untitled",
+    "Java/AWT",
     "Inter-collegiate",
     "App/App.md",
     "Inter-collegiate/attachments/WhatsApp Image 2024-09-12 at 02.08.14_187cb3e1.jpg",
@@ -196,13 +203,10 @@
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
-    "Data and Communication networks/HDLC/attachments",
     "Operating Systems/Memory Management.md",
     "Operating Systems/Types of Operating Systems.md",
-    "Java/Exception Handling/attachments",
     "DSA/Best Time to Buy and Sell Stock.md",
     "Pasted.md",
-    "Data and Communication networks/HDLC",
     "Recipe/Kolukattai.md",
     "DSA/Maximum Subarray.md",
     "DSA/Two Sum.md",
