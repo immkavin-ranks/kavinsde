@@ -39,7 +39,7 @@ public class className implements ActionListener {
 ```
 
 * `getActionCommand( ) `
-* `setActionCommand( ).`
+* `setActionCommand( )
 * `getSource( ) `
 
 # Check boxes
@@ -75,6 +75,7 @@ public class CheckboxDemo implements ItemListener {
 ## Checkbox Group
 
 `CheckboxGroup cbg = new CheckboxGroup();`
+
 Methods:
 ```java
 Checkbox getSelectedCheckbox( )
@@ -84,17 +85,21 @@ void setSelectedCheckbox(Checkbox which)
 # Choice Controls
 
 * The Choice class is used to create a pop-up list of items from which the user may choose.
-	`Choice choice = new Choice();`
+
+`Choice choice = new Choice();`
 
 Methods:
-`void add(String name)`
-`String getSelectedItem( )`
-`int getSelectedIndex( )`
-`int getItemCount( )`
-`void select(int index)`
-`void select(String name)`
-`String getItem(int index)
+```java
+void add(String name)
+String getSelectedItem( )
+int getSelectedIndex( )
+int getItemCount( )
+void select(int index)
+void select(String name)
+String getItem(int index)
+```
 
+```
 ```java
 public class ChoiceDemo implements ItemListener {
 	Choice choice = new Choice();
