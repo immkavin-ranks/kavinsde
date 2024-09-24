@@ -39,7 +39,7 @@ public class className implements ActionListener {
 ```
 
 * `getActionCommand( ) `
-* `setActionCommand( )
+* `setActionCommand( )`
 * `getSource( ) `
 
 # Check boxes
@@ -99,7 +99,6 @@ void select(String name)
 String getItem(int index)
 ```
 
-```
 ```java
 public class ChoiceDemo implements ItemListener {
 	Choice choice = new Choice();
