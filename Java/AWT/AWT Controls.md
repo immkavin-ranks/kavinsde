@@ -22,8 +22,8 @@ Label(String str, int how) throws HeadlessException
 Button( ) throws HeadlessException
 Button(String str) throws HeadlessException
 ```
-* `void setLabel(String str)
-* `String getLabel( )
+* `void setLabel(String str)`
+* `String getLabel( )`
 
 ```java
 public class className implements ActionListener {
