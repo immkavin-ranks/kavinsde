@@ -112,6 +112,27 @@ public class ChoiceDemo implements ItemListener {
 
 # Lists
 
+* The List class provides a compact, multiple-choice, scrolling selection list.
+* Constructors:
+```java
+List( ) throws HeadlessException
+List(int numRows) throws HeadlessException
+List(int numRows, boolean multipleSelect) throws HeadlessException
+```
+* Methods:
+```java
+void add(String name)
+void add(String name, int index)
+String getSelectedItem( )
+int getSelectedIndex( )
+String[ ] getSelectedItems( )
+int[ ] getSelectedIndexes( )
+int getItemCount( )
+void select(int index)
+String getItem(int index)
+```
+
+>The `getSelectedItem( )` method returns a string containing the name of the item. If more than one item is selected, or if no selection has yet been made, null is returned. `getSelectedIndex( )` returns the index of the item. The first item is at index 0. If more than one item is selected, or if no selection has yet been made, –1 is returned.
 
 
 
