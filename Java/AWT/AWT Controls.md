@@ -5,8 +5,8 @@
 * Labels are passive controls that do not support any interaction with the user.
 * Constructors:
 ```java
-Label( ) throws HeadlessException`
-Label(String str) throws HeadlessException`
+Label( ) throws HeadlessException
+Label(String str) throws HeadlessException
 Label(String str, int how) throws HeadlessException
 ```
 * Alignment constants: `Label.LEFT, Label.RIGHT, or Label.CENTER`
