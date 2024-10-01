@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "42f443474c0a56e4",
+        "id": "d5c42d6903ef34bc",
         "type": "tabs",
         "children": [
           {
-            "id": "13d5f12600e26cf8",
+            "id": "632d0c0387deb3c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "App/App.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 286.50152587890625
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "App/App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "App/App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "App/App.md"
+              }
             }
           },
           {
@@ -160,21 +168,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c74652eda4109685",
+  "active": "632d0c0387deb3c8",
   "lastOpenFiles": [
-    "Java/AWT/AWT Controls.md",
     "Cloud Computing.md",
+    "Youtube/Sherlock.md",
+    "App/App.md",
+    "Youtube",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
+    "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
+    "Java/AWT/AWT Controls.md",
+    "Java/Exception Handling/Exception Handling.md",
+    "Untitled.canvas",
     "Cloud Computing",
     "Java/AWT/Untitled",
     "Java/AWT",
     "Inter-collegiate",
-    "App/App.md",
     "Inter-collegiate/attachments/WhatsApp Image 2024-09-12 at 02.08.14_187cb3e1.jpg",
     "Inter-collegiate/attachments/WhatsApp Image 2024-09-09 at 19.48.35_55b949a8.jpg",
-    "Java/Exception Handling/Exception Handling.md",
     "Inter-collegiate/St. Joseph's College, Tiruchirappalli.md",
     "Inter-collegiate/National College, Tiruchirappalli.md",
-    "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
     "Inter-collegiate/attachments",
     "Inter-collegiate/attachments/WhatsApp Image 2024-09-14 at 10.07.37_6843a567.jpg",
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
@@ -191,9 +204,6 @@
     "Inter-collegiate/attachments/IMG-20240911-WA0003.jpg",
     "Inter-collegiate/attachments/IMG-20240911-WA0004.jpg",
     "Kavin Docs/U22BCA141.md",
-    "Kavin Docs/attachments",
-    "Ethical Hacking/Ethical Hacking Unit 4.md",
-    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
     "Operating Systems/Memory Management.md",
@@ -206,8 +216,6 @@
     "DSA/Rotate Matrix.md",
     "Ethical Hacking/Suresh.md",
     "[[Pasted.md",
-    "2024-08-20.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "2024-08-20.md"
   ]
 }
