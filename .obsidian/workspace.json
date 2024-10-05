@@ -11,8 +11,12 @@
             "id": "ada8a9ca0e07e315",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/Cloud Computing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Computing/Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Computing/Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Computing/Cloud Computing.md"
+              }
             }
           },
           {
@@ -160,13 +168,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ada8a9ca0e07e315",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
     "Youtube/Sherlock.md",
-    "App/App.md",
-    "Cloud Computing.md",
-    "Youtube",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "App/App.md",
+    "Cloud Computing/Cloud Computing.md",
+    "Youtube",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
     "Java/AWT/AWT Controls.md",
