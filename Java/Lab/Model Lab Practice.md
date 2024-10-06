@@ -99,5 +99,26 @@ reset c = 0
 ```
 
 11.   Applet face emoji
+```java
+package face;
+
+import java.awt.Graphics;
+import java.applet.Applet;
+
+public class Face extends Applet {
+	public void paint(Graphics g) {
+		g.drawOval(100, 100, 200, 200);
+		g.drawArc(150, 200, 100, 50, 0, -180);
+		g.fillOval(160, 150, 20, 20);
+		g.fillOval(230, 150, 20, 20);
+	}
+}
+```
+
+```html
+<applet code="face.Face.class" width="400" height="400"></applet>
+```
+
+![](attachments/Pasted%20image%2020241006203408.png)
 
 12.   Applet flag
