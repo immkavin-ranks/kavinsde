@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5086555480957,
-    "collapsed": true
+    "width": 275.5086555480957
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -171,6 +170,7 @@
   },
   "active": "807d4ebb329f5142",
   "lastOpenFiles": [
+    "Java/Lab/attachments/Pasted image 20241006223646.png",
     "Java/Lab/attachments/Pasted image 20241006203408.png",
     "Java/Lab/attachments",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
@@ -205,7 +205,6 @@
     "DSA/Runtime/assets",
     "Inter-collegiate/attachments/IMG-20240911-WA0002.jpg",
     "Inter-collegiate/attachments/IMG-20240911-WA0003.jpg",
-    "Inter-collegiate/attachments/IMG-20240911-WA0004.jpg",
     "Kavin Docs/U22BCA141.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
