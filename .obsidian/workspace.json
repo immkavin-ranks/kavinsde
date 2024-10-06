@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a20a21d910cba6e",
+        "id": "a28baad920798842",
         "type": "tabs",
         "children": [
           {
-            "id": "ada8a9ca0e07e315",
+            "id": "807d4ebb329f5142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Computing/Cloud Computing.md",
+                "file": "Java/Lab/Model Lab Practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.51103591918945
+    "width": 275.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Computing/Cloud Computing.md",
+                "file": "Java/Lab/Model Lab Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/Cloud Computing.md",
+                "file": "Java/Lab/Model Lab Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Computing/Cloud Computing.md"
+                "file": "Java/Lab/Model Lab Practice.md"
               }
             }
           },
@@ -170,10 +171,12 @@
   },
   "active": "c74652eda4109685",
   "lastOpenFiles": [
-    "Youtube/Sherlock.md",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
-    "App/App.md",
+    "Java/Lab/Model Lab Practice.md",
+    "Java/Lab",
     "Cloud Computing/Cloud Computing.md",
+    "Youtube/Sherlock.md",
+    "App/App.md",
     "Youtube",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
@@ -199,7 +202,6 @@
     "Pasted image 20240914145656.png",
     "DSA/Runtime/assets",
     "DSA/Runtime",
-    "App",
     "Inter-collegiate/attachments/IMG-20240911-WA0002.jpg",
     "Inter-collegiate/attachments/IMG-20240911-WA0003.jpg",
     "Inter-collegiate/attachments/IMG-20240911-WA0004.jpg",
@@ -215,7 +217,6 @@
     "DSA/Two Sum.md",
     "DSA/Rotate Matrix.md",
     "Ethical Hacking/Suresh.md",
-    "[[Pasted.md",
-    "2024-08-20.md"
+    "[[Pasted.md"
   ]
 }
