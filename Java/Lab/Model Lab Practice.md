@@ -1,12 +1,109 @@
 ## Java
 
-1.       Classes and Objects
+1. Classes and Objects
+```java
+import java.util.Arrays;  
+  
+public class AreaOfRectangle {  
+    public static void main(String[] args) {  
+        Rect r1 = new Rect();  
+        r1.length = 10;  
+        r1.height = 15;  
+        System.out.println("[l, h] = " + Arrays.toString(r1.getData()));  
+        System.out.println("Area = " + r1.getArea());  
+  
+        Rect r2 = new Rect();  
+        r2.putData(20, 12);  
+        System.out.printf("[l, h] = [%d, %d]\n", r2.length, r2.height);  
+        System.out.println("Area = " + r2.getArea());  
+    }  
+}  
+  
+class Rect {  
+    int length, height;  
+  
+    public void putData(int l, int h) {  
+        length = l;  
+        height = h;  
+    }  
+  
+    int getArea() {  
+        return length * height;  
+    }  
+  
+    int[] getData() {  
+        return new int[] {length, height};  
+    }  
+}
+```
 
-2.       Method Overloading
+2. Method Overloading
+```java
 
-3.       Method Overriding
+```
+3. Method Overriding
+```java
+class HDFC {  
+    int getRateOfInterest() {  
+        return 9;  
+    }  
+}  
+  
+class BOI extends HDFC{  
+    int getRateOfInterest() {  
+        return 7;  
+    }  
+}  
+  
+public class MethodOverriding {  
+    public static void main(String[] args) {  
+        HDFC h = new HDFC();  
+        System.out.println("HDFC Rate of interest is: " + h.getRateOfInterest());  
+        BOI b = new BOI();  
+        System.out.println("BOI Rate of interest is: " + b.getRateOfInterest());  
+    }  
+  
+}
+```
 
 4.       Single Inheritance
+```java
+public class Employee {
+    private String name;
+    private int employeeId;
+
+    public Employee(String name, int employeeId) {
+        this.name = name;
+        this.employeeId = employeeId;
+    }
+
+    public void displayInfo() {
+        System.out.println("Employee ID: " + employeeId + ", Name: " + name);
+    }
+}
+
+public class Manager extends Employee {
+    private String department;
+
+    public Manager(String name, int employeeId, String department) {
+        super(name, employeeId);
+        this.department = department;
+    }
+
+    public void manageDepartment() {
+        System.out.println("Managing department: " + department);
+    }
+}
+
+public class InheritanceDemo {
+    public static void main(String[] args) {
+        Manager projectManager = new Manager("John Doe", 1001, "IT");
+        projectManager.displayInfo();  // Inherited method
+        projectManager.manageDepartment();  // Manager's specific method
+    }
+}
+
+```
 
 5.       Packages
 
@@ -401,6 +498,25 @@ Enter number of rows: 5
 * * * *
 * * * * *
 ```
+```bash
+read -p "Enter number of rows: " rows
+for ((i=1; i<=rows; i++)); do
+        for ((j=i; j>0; j--)); do
+                echo -n "$j "
+        done
+        echo
+done
+```
+
+```bash
+kavinsde@DESKTOP-8E5H1D6:~/shell-scripts$ bash floyd.sh
+Enter number of rows: 4
+1
+2 1
+3 2 1
+4 3 2 1
+```
+
 13. Sum of digits:
 ```bash
 #!/bin/bash
@@ -502,4 +618,227 @@ outer_function
 ➜  model-lab git:(main) ✗ bash nested_functions.sh
 This is the outer function
 This is the inner function
+```
+
+1. Classes and Objects:
+```java
+public class Car {
+    String model;
+    int year;
+
+    public Car(String model, int year) {
+        this.model = model;
+        this.year = year;
+    }
+
+    public void displayInfo() {
+        System.out.println("Car: " + model + ", Year: " + year);
+    }
+
+    public static void main(String[] args) {
+        Car myCar = new Car("Tesla", 2023);
+        myCar.displayInfo();
+    }
+}
+```
+
+2. Method Overloading:
+```java
+public class Calculator {
+    public int add(int a, int b) {
+        return a + b;
+    }
+
+    public double add(double a, double b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        System.out.println(calc.add(5, 3));
+        System.out.println(calc.add(5.5, 3.2));
+    }
+}
+```
+
+3. Method Overriding:
+```java
+class Animal {
+    public void makeSound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    public void makeSound() {
+        System.out.println("Dog barks");
+    }
+
+    public static void main(String[] args) {
+        Animal dog = new Dog();
+        dog.makeSound();
+    }
+}
+```
+
+4. Single Inheritance:
+```java
+class Parent {
+    void display() {
+        System.out.println("Parent class method");
+    }
+}
+
+class Child extends Parent {
+    void show() {
+        System.out.println("Child class method");
+    }
+
+    public static void main(String[] args) {
+        Child obj = new Child();
+        obj.display();
+        obj.show();
+    }
+}
+```
+
+5. Packages:
+```java
+// File: com/example/MyPackage.java
+package com.example;
+
+public class MyPackage {
+    public void displayMessage() {
+        System.out.println("Hello from MyPackage!");
+    }
+
+    public static void main(String[] args) {
+        MyPackage obj = new MyPackage();
+        obj.displayMessage();
+    }
+}
+```
+
+6. Arithmetic Operations:
+```java
+public class ArithmeticOperations {
+    public static void main(String[] args) {
+        int a = 10, b = 5;
+        System.out.println("Addition: " + (a + b));
+        System.out.println("Subtraction: " + (a - b));
+        System.out.println("Multiplication: " + (a * b));
+        System.out.println("Division: " + (a / b));
+        System.out.println("Modulus: " + (a % b));
+    }
+}
+```
+
+7. Interfaces:
+```java
+interface Drawable {
+    void draw();
+}
+
+class Circle implements Drawable {
+    public void draw() {
+        System.out.println("Drawing a circle");
+    }
+}
+
+class Main {
+    public static void main(String[] args) {
+        Drawable circle = new Circle();
+        circle.draw();
+    }
+}
+```
+
+8. Vowels Checking using Switch:
+```java
+public class VowelChecker {
+    public static void main(String[] args) {
+        char ch = 'e';
+        switch(ch) {
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
+                System.out.println(ch + " is a vowel");
+                break;
+            default:
+                System.out.println(ch + " is not a vowel");
+        }
+    }
+}
+```
+
+9. Odd or Even till N:
+```java
+public class OddEvenChecker {
+    public static void main(String[] args) {
+        int N = 10;
+        for (int i = 1; i <= N; i++) {
+            if (i % 2 == 0) {
+                System.out.println(i + " is even");
+            } else {
+                System.out.println(i + " is odd");
+            }
+        }
+    }
+}
+```
+
+10. Exception Handling:
+```java
+public class ExceptionExample {
+    public static void main(String[] args) {
+        try {
+            int result = 10 / 0;
+        } catch (ArithmeticException e) {
+            System.out.println("Cannot divide by zero");
+        } finally {
+            System.out.println("This block always executes");
+        }
+    }
+}
+```
+
+11. Applet face emoji:
+```java
+import java.applet.Applet;
+import java.awt.Graphics;
+
+public class FaceEmoji extends Applet {
+    public void paint(Graphics g) {
+        g.drawOval(50, 50, 200, 200);
+        g.fillOval(90, 100, 30, 30);
+        g.fillOval(180, 100, 30, 30);
+        g.drawArc(75, 150, 150, 60, 180, 180);
+    }
+}
+```
+
+12. Applet flag:
+```java
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Graphics;
+
+public class IndianFlag extends Applet {
+    public void paint(Graphics g) {
+        g.setColor(Color.orange);
+        g.fillRect(50, 50, 300, 60);
+        
+        g.setColor(Color.white);
+        g.fillRect(50, 110, 300, 60);
+        
+        g.setColor(Color.green);
+        g.fillRect(50, 170, 300, 60);
+        
+        g.setColor(Color.blue);
+        g.drawOval(175, 110, 60, 60);
+    }
+}
 ```
