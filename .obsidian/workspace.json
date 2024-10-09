@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lab/Model Lab Practice.md",
+                "file": "Java/Streams/IO Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5086555480957
+    "width": 275.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lab/Model Lab Practice.md",
+                "file": "Java/Streams/IO Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lab/Model Lab Practice.md",
+                "file": "Java/Streams/IO Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lab/Model Lab Practice.md"
+                "file": "Java/Streams/IO Streams.md"
               }
             }
           },
@@ -170,11 +171,13 @@
   },
   "active": "807d4ebb329f5142",
   "lastOpenFiles": [
+    "Java/Lab/Model Lab Practice.md",
+    "Java/Streams/IO Streams.md",
+    "Java/Streams",
     "Java/Lab/attachments/Pasted image 20241006223646.png",
     "Java/Lab/attachments/Pasted image 20241006203408.png",
     "Java/Lab/attachments",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
-    "Java/Lab/Model Lab Practice.md",
     "Java/Lab",
     "Cloud Computing/Cloud Computing.md",
     "Youtube/Sherlock.md",
@@ -202,9 +205,7 @@
     "DSA/Runtime/Pasted image 20240914145852.png",
     "DSA/Runtime/assets/Pasted image 20240914145759.png",
     "Pasted image 20240914145656.png",
-    "DSA/Runtime/assets",
     "Inter-collegiate/attachments/IMG-20240911-WA0002.jpg",
-    "Inter-collegiate/attachments/IMG-20240911-WA0003.jpg",
     "Kavin Docs/U22BCA141.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
