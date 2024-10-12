@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Streams/IO Streams.md",
+                "file": "Java/IO Streams/IO Streams.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Streams/IO Streams.md",
+                "file": "Java/IO Streams/IO Streams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Streams/IO Streams.md",
+                "file": "Java/IO Streams/IO Streams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Streams/IO Streams.md"
+                "file": "Java/IO Streams/IO Streams.md"
               }
             }
           },
@@ -168,11 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "807d4ebb329f5142",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
     "Java/Lab/Model Lab Practice.md",
-    "Java/Streams/IO Streams.md",
-    "Java/Streams",
+    "Java/IO Streams/IO Streams.md",
+    "Java/IO Streams",
     "Java/Lab/attachments/Pasted image 20241006223646.png",
     "Java/Lab/attachments/Pasted image 20241006203408.png",
     "Java/Lab/attachments",
