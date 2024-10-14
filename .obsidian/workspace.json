@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a28baad920798842",
+        "id": "bc97e6071be2ecc8",
         "type": "tabs",
         "children": [
           {
-            "id": "807d4ebb329f5142",
+            "id": "df463301ad309c45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/End Semester.md",
+                "file": "Operating Systems/Process Management Problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/End Semester.md",
+                "file": "Operating Systems/Process Management Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/End Semester.md",
+                "file": "Operating Systems/Process Management Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/End Semester.md"
+                "file": "Operating Systems/Process Management Problem.md"
               }
             }
           },
@@ -168,9 +168,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "807d4ebb329f5142",
+  "active": "df463301ad309c45",
   "lastOpenFiles": [
+    "Operating Systems/Process Management Problem.md",
     "Java/Exception Handling/Exception Handling.md",
+    "Java/AWT/AWT Controls.md",
     "Java/End Semester.md",
     "Java/IO Streams/IO Streams.md",
     "Java/Lab/Model Lab Practice.md",
@@ -186,7 +188,6 @@
     "Youtube",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
-    "Java/AWT/AWT Controls.md",
     "Untitled.canvas",
     "Cloud Computing",
     "Java/AWT/Untitled",
@@ -215,7 +216,6 @@
     "Pasted.md",
     "Recipe/Kolukattai.md",
     "DSA/Maximum Subarray.md",
-    "DSA/Two Sum.md",
-    "DSA/Rotate Matrix.md"
+    "DSA/Two Sum.md"
   ]
 }
