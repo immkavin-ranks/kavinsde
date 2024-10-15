@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md",
+                "file": "Data and Communication networks/End Semester/Topics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md",
+                "file": "Data and Communication networks/End Semester/Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md",
+                "file": "Data and Communication networks/End Semester/Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md"
+                "file": "Data and Communication networks/End Semester/Topics.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "49f477d8805b8e75",
   "lastOpenFiles": [
-    "Data and Communication networks/End Semester/Topics.md",
     "Data and Communication networks/End Semester/Networks - End Semester.md",
+    "Data and Communication networks/End Semester/Topics.md",
     "Data and Communication networks/End Semester",
     "Operating Systems/End Semester/Definitions.md",
     "Operating Systems/End Semester/attachments/Pasted image 20241015090639.png",
