@@ -4,14 +4,14 @@
    - It involves detecting and, in some cases, correcting errors that may occur during transmission due to noise or other disturbances.
 2. Types of [synchronous protocols](https://technicam.blogspot.com/2015/04/synchronous-protocols.html)
    - Bit oriented protocols - HDLC
-	   - Character oriented protocols - BSC
-1. [Asynchronous protocols](https://technicam.blogspot.com/2015/04/asynchronous-protocols.html)
-2. Differentiate synchronous and asynchronous protocols
-3. BSC frames of character oriented protocol (Link mela 2nd question la iruku)
-4. [Control fields of S-frame](https://www.geeksforgeeks.org/types-of-hdlc-frames/)
-5. [HDLC concept in bit oriented protocol [PDF]](https://www.gl.com/Presentations/HDLC-Protocol-Overview-Presentation.pdf) or [Notes](../HDLC/High-level%20Data%20Link%20Control%20(HDLC).md)
-6. [Transition states of PPP](https://www.eeweb.com/ppp-transition-states/)
-7. [Switching](https://www.geeksforgeeks.org/what-is-switching/)
+   - Character oriented protocols - BSC
+3. [Asynchronous protocols](https://technicam.blogspot.com/2015/04/asynchronous-protocols.html)
+4. Differentiate synchronous and asynchronous protocols
+5. BSC frames of character oriented protocol (Link mela 2nd question la iruku)
+6. [Control fields of S-frame](https://www.geeksforgeeks.org/types-of-hdlc-frames/)
+7. [HDLC concept in bit oriented protocol [PDF]](https://www.gl.com/Presentations/HDLC-Protocol-Overview-Presentation.pdf) or [Notes](../HDLC/High-level%20Data%20Link%20Control%20(HDLC).md)
+8. [Transition states of PPP](https://www.eeweb.com/ppp-transition-states/)
+9. [Switching](https://www.geeksforgeeks.org/what-is-switching/)
 ### UNIT IV
 1. [Types of bridges](https://www.naukri.com/code360/library/bridges-in-computer-networks)
 2. Routers
