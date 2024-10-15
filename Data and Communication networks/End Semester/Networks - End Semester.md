@@ -4,7 +4,7 @@
 3. Asynchronous algorithm
 4. Differentiate synchronous and asynchronous protocols
 5. BSC frames of character oriented protocol
-6. Control fields of S-frame
+6. [Control fields of S-frame](https://www.geeksforgeeks.org/types-of-hdlc-frames/)
 7. HDLC concept in bit oriented protocol
 8. [Transition states of PPP](https://www.eeweb.com/ppp-transition-states/)
 9. Switching
