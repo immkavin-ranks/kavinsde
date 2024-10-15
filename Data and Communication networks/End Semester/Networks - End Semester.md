@@ -5,9 +5,9 @@
 4. Differentiate synchronous and asynchronous protocols
 5. BSC frames of character oriented protocol
 6. [Control fields of S-frame](https://www.geeksforgeeks.org/types-of-hdlc-frames/)
-7. HDLC concept in bit oriented protocol
+7. [HDLC concept in bit oriented protocol [PDF]](https://www.gl.com/Presentations/HDLC-Protocol-Overview-Presentation.pdf)
 8. [Transition states of PPP](https://www.eeweb.com/ppp-transition-states/)
-9. Switching
+9. [Switching](https://www.geeksforgeeks.org/what-is-switching/)
 ### UNIT IV
 1. Types of bridges
 2. Routers
