@@ -1,19 +1,22 @@
-- SMTP
-- Distance vector routing algorithm
-- Dijkstra algorithm
-- Asynchronous algorithm
-- HDLC concept in bit oriented protocol
-- Types of bridges
-- Transition states of PPP
-- BSC frames of character oriented protocol
-- Control fields of S-frame
-- Differentiate synchronous and asynchronous protocols
-- Functions of IP
-- Switching
-- HTTP, FTP, DNS, SNMP
-- Datagram
-- Router 
-- Gateways
-- Network
-- Types of synchronous protocols
-- Purpose of error detection in data link protocol
+### UNIT III
+1. Purpose of error detection in data link protocol
+2. Types of synchronous protocols
+3. Asynchronous algorithm
+4. Differentiate synchronous and asynchronous protocols
+5. BSC frames of character oriented protocol
+6. Control fields of S-frame
+7. HDLC concept in bit oriented protocol
+8. Transition states of PPP
+9. Switching
+### UNIT IV
+1. Types of bridges
+2. Routers
+3. Gateways
+4. Datagram
+5. Distance vector routing algorithm
+6. Dijkstra algorithm
+### UNIT V
+1. Functions of IP
+2. Network
+3. HTTP, FTP, DNS, SNMP
+4. SMTP
