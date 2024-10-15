@@ -13,7 +13,7 @@
 2. Routers
 3. Gateways
 4. Datagram
-5. Distance vector routing algorithm
+5. [Distance vector routing algorithm](https://www.scaler.in/distance-vector-routing-algorithm/)
 6. Dijkstra algorithm
 ### UNIT V
 1. Functions of IP
