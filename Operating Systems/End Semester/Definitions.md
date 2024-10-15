@@ -79,6 +79,6 @@
 
 ![](attachments/Pasted%20image%2020241015085244.png)
 
-## State Transistions
+## State Transitions
 
 ![](attachments/Pasted%20image%2020241015090639.png)
