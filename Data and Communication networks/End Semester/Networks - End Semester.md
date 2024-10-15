@@ -6,7 +6,7 @@
 5. BSC frames of character oriented protocol
 6. Control fields of S-frame
 7. HDLC concept in bit oriented protocol
-8. Transition states of PPP
+8. [Transition states of PPP](https://www.eeweb.com/ppp-transition-states/)
 9. Switching
 ### UNIT IV
 1. Types of bridges
