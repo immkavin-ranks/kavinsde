@@ -4,7 +4,7 @@
 - Asynchronous algorithm
 - HDLC concept in bit oriented protocol
 - Types of bridges
-- Transition states of PPP
+- Transition states of BP
 - BSC frames of character oriented protocol
 - Control fields of S-frame
 - Differentiate synchronous and asynchronous protocols
