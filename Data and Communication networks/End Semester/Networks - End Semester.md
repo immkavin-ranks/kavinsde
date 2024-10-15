@@ -18,5 +18,4 @@
 ### UNIT V
 1. Functions of IP
 2. Network
-3. HTTP, FTP, DNS, SNMP
-4. SMTP
+3. [HTTP, FTP, DNS, SNMP, SMTP](https://www.naukri.com/code360/library/application-layer-protocols)
