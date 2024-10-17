@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/End Semester/Definitions.md",
+                "file": "Cloud Computing/17-10-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md",
+                "file": "Cloud Computing/17-10-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md",
+                "file": "Cloud Computing/17-10-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data and Communication networks/End Semester/Networks - End Semester.md"
+                "file": "Cloud Computing/17-10-2024.md"
               }
             }
           },
@@ -181,13 +180,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "49f477d8805b8e75",
+  "active": "6b60e67f4e0d6522",
   "lastOpenFiles": [
-    "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
+    "Operating Systems/End Semester/Definitions.md",
+    "Cloud Computing/17-10-2024.md",
     "Data and Communication networks/End Semester/Networks - End Semester.md",
+    "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
     "Data and Communication networks/End Semester/Topics.md",
     "Data and Communication networks/End Semester",
-    "Operating Systems/End Semester/Definitions.md",
     "Operating Systems/End Semester/attachments/Pasted image 20241015090639.png",
     "Operating Systems/End Semester/attachments/Pasted image 20241015085846.png",
     "Operating Systems/End Semester/attachments/Pasted image 20241015085244.png",
@@ -228,7 +228,6 @@
     "DSA/Runtime/attachments/Pasted image 20240914145930.png",
     "Kavin Docs/U22BCA141.md",
     "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
-    "Operating Systems/Memory Management.md",
-    "DSA/Best Time to Buy and Sell Stock.md"
+    "Operating Systems/Memory Management.md"
   ]
 }
