@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc972c8ca643e1a",
+        "id": "152864e65be6e710",
         "type": "tabs",
         "children": [
           {
-            "id": "ea44d23fbbcb2035",
+            "id": "4b756afa1f7a2249",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5086555480957,
-    "collapsed": true
+    "width": 275.5086555480957
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -189,17 +188,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea44d23fbbcb2035",
+  "active": "4b756afa1f7a2249",
   "lastOpenFiles": [
+    "Cloud Computing/17-10-2024.md",
+    "App/App.md",
+    "Youtube/Sherlock.md",
+    "Operating Systems/Codecademy Resources.md",
+    "Operating Systems/Notes.md",
+    "Operating Systems/attachments/Pasted image 20241027222038.png",
+    "Operating Systems/attachments",
+    "Operating Systems/Process Management Problem.md",
     "Operating Systems/Types of Operating Systems.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
-    "Operating Systems/Process Management Problem.md",
     "Operating Systems/Memory Management.md",
     "Java/AWT/AWT Controls.md",
     "Java/IO Streams/IO Streams.md",
-    "Operating Systems/Notes.md",
-    "Operating Systems/Codecademy Resources.md",
-    "Cloud Computing/17-10-2024.md",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.55_19532538.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_cedc26b8.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_a66990f1.jpg",
@@ -215,7 +218,6 @@
     "Operating Systems/End Semester/attachments/Pasted image 20241015085846.png",
     "Operating Systems/End Semester/attachments/Pasted image 20241015085244.png",
     "Operating Systems/End Semester/Logical File System.md",
-    "Operating Systems/End Semester/attachments/Pasted image 20241015084530.png",
     "Operating Systems/End Semester/attachments",
     "Operating Systems/End Semester",
     "Java/Exception Handling/Exception Handling.md",
@@ -226,17 +228,13 @@
     "Ethical Hacking/Ethical Hacking Unit 4.md",
     "Java/Lab",
     "Cloud Computing/Cloud Computing.md",
-    "Youtube/Sherlock.md",
-    "App/App.md",
     "Youtube",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
     "Untitled.canvas",
     "Cloud Computing",
     "Java/AWT/Untitled",
-    "Java/AWT",
     "Inter-collegiate/St. Joseph's College, Tiruchirappalli.md",
-    "Inter-collegiate/National College, Tiruchirappalli.md",
-    "Data and Communication networks/The OSI Model/Open System Interconnection.md"
+    "Inter-collegiate/National College, Tiruchirappalli.md"
   ]
 }

@@ -35,3 +35,27 @@ The arithmetic and logic unit (**ALU**) is where all of the processing of the co
 The **register**, or immediate access store, is a limited space, high-speed memory mounted on the CPU for quick processing. It provides the CPU with a place to store values that are crucial for the calculations the ALU is currently processing.
 
 **Kernel**: The kernel manages all of the interactions between the hardware and software components of a computer, such as interfacing with memory and hard drives.
+
+**Process wait time** is ==the amount of time a process spends waiting (*Ready*) to be executed by the CPU. It's calculated by subtracting the burst time from the turnaround time.
+
+First come First serve
+https://static-assets.codecademy.com/Courses/Operating-Systems/GIFs/First-Come-First-Served.gif
+
+**convey effect** - long process occupy the CPU (Ex. FCFS)
+**starvation** - low priority process never executed (Ex. SJF)
+
+
+**Priority scheduling** 
+**SJF** - Shortest Job First 
+- variation of priority scheduling
+- incoming shortest processes make longest processes starve for CPU
+- solved by aging the jobs
+- aging - the priority of a process increases the longer it has been waiting
+- queue should be sorted for every interruption
+
+**Round robin**
+- Context switching required at every time slice
+
+**Multiple-levels queue scheduling**
+https://static-assets.codecademy.com/Courses/Operating-Systems/Multiple-level-queues-scheduling-algorithm-GIF.gif
+
