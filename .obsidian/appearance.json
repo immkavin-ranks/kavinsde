@@ -1,5 +1,9 @@
 {
-  "textFontFamily": "",
+  "textFontFamily": "Helvetica",
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 21,
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "Helvetica",
+  "monospaceFontFamily": "Fira code"
 }

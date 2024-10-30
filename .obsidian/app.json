@@ -11,5 +11,6 @@
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./attachments",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showRibbon": true
 }
