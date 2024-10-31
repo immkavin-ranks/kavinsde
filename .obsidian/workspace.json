@@ -11,10 +11,14 @@
             "id": "5e0d2d79a85776f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/OS Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OS Notes"
             }
           }
         ]
@@ -184,6 +188,7 @@
   },
   "active": "5e0d2d79a85776f5",
   "lastOpenFiles": [
+    "Operating Systems/Memory Management.md",
     "Data and Communication networks/DCN Notes.md",
     "Operating Systems/OS Notes.md",
     "Data and Communication networks/hybrid topology.canvas",
@@ -201,7 +206,6 @@
     "Operating Systems/Process Management Problem.md",
     "Operating Systems/Types of Operating Systems.md",
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
-    "Operating Systems/Memory Management.md",
     "Java/IO Streams/IO Streams.md",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.55_19532538.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_cedc26b8.jpg",

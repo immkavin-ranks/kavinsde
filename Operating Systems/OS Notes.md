@@ -59,3 +59,12 @@ https://static-assets.codecademy.com/Courses/Operating-Systems/GIFs/First-Come-F
 **Multiple-levels queue scheduling**
 https://static-assets.codecademy.com/Courses/Operating-Systems/Multiple-level-queues-scheduling-algorithm-GIF.gif
 
+
+Synchronization:  program is synchronized when each critical section satisfies the mutual exclusion, progress, and bounded waiting conditions.
+
+locking: there must only be one thread at a time with access to a critical section.
+
+mutual exclusion lock or mutex
+lock and unlock
+
+> once a thread call mutex lock() other threads wait infinitely until the locked thread to call mutex unlock()
