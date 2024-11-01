@@ -68,3 +68,9 @@ mutual exclusion lock or mutex
 lock and unlock
 
 > once a thread call mutex lock() other threads wait infinitely until the locked thread to call mutex unlock()
+
+condition variable: 
+- consumer - producer problem
+- wait and notify based on condition
+
+atomic variables:  The variable is atomic because the operations required to modify it take place, from our threads’ perspective, in exactly one atomic step.
