@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/OS Notes.md",
+                "file": "Java/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS Notes"
+              "title": "Syllabus"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Computing/17-10-2024.md",
+                "file": "Operating Systems/OS Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 17-10-2024"
+              "title": "Outgoing links from OS Notes"
             }
           },
           {
@@ -168,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -188,10 +188,11 @@
   },
   "active": "5e0d2d79a85776f5",
   "lastOpenFiles": [
+    "Operating Systems/OS Notes.md",
+    "Java/Syllabus.md",
     "index.html",
     "Operating Systems/Memory Management.md",
     "Data and Communication networks/DCN Notes.md",
-    "Operating Systems/OS Notes.md",
     "Data and Communication networks/hybrid topology.canvas",
     "Inter-collegiate/St. Joseph's College, Tiruchirappalli.md",
     "Data and Communication networks/End Semester/Networks - End Semester.md",
@@ -233,7 +234,6 @@
     "Cloud Computing/Cloud Computing.md",
     "Youtube",
     "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
-    "Cloud Computing",
-    "Java/AWT/Untitled"
+    "Cloud Computing"
   ]
 }
