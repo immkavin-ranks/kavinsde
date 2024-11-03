@@ -14,6 +14,15 @@ Thread methods: start(), sleep(), join(), is Alive()
 
 Interthread communication: wait(), notify(), notifyAll()
 
-OOP: inheritance, polymorphism, abstraction, encapsulation
+principles of OOP: inheritance, polymorphism, abstraction, encapsulation
 
 concurrency: technique of executing relatively independent tasks in parallel to save run time
+
+James gosling - sun microsystems - 1995 - Java 1.0
+
+object oriented - simple - secure - platform independent - architecture neutral - robust - portable - multithreaded - interpreted - high performance - distributed - dynamic
+
+platform independent byte code is interpreted by java virtual machine.
+
+pointers - operator overloading - multiple inheritance - explicit memory allocation
+
