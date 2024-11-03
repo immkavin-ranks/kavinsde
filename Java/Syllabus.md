@@ -10,7 +10,7 @@
 - [ ] The 'finalize' method
 - [ ] Method overloading 
 - [ ] this, static and final usage
-- [ ] Nested and inner classes
+- [x] Nested and inner classes
 - [ ] Inheritance 
 - [ ] method overriding
 - [ ] Abstract method and abstract classes
@@ -25,15 +25,15 @@
 - [ ] try and catch
 - [ ] Nested try 
 - [ ] throw and throws
-- [ ] Multithreading
+- [x] Multithreading
 - [ ] thread lifecycle
 - [ ] Thread exceptions 
 - [ ] thread priorities
-- [ ] Synchronization
+- [x] Synchronization
 
 ## UNIT-III
 - [ ] I/O Streams: stream classes
-- [ ] Byte stream -
+- [ ] Byte stream
 - [ ] character stream
 - [ ] I/O exceptions 
 - [ ] sequential files
@@ -44,7 +44,7 @@
 - [ ] Working with frame window
 - [ ] Event handling 
 - [ ] introducing graphics
-- [ ] AWT controls: labels, text field, textarea
+- [ ] AWT controls: labels, text field, text area
 - [ ] Button 
 - [ ] checkboxes 
 - [ ] choice 

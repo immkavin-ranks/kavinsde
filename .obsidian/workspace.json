@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e0d2d79a85776f5",
+            "id": "3ed5ab389287c9fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5086555480957
+    "width": 236.5086555480957
   },
   "right": {
     "id": "a2efc1bf3c4ef1d0",
@@ -186,10 +186,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5e0d2d79a85776f5",
+  "active": "3ed5ab389287c9fd",
   "lastOpenFiles": [
-    "Operating Systems/OS Notes.md",
+    "Java/Programs.md",
+    "Java/Java Notes.md",
+    "Java/End Semester.md",
     "Java/Syllabus.md",
+    "Operating Systems/OS Notes.md",
     "index.html",
     "Operating Systems/Memory Management.md",
     "Data and Communication networks/DCN Notes.md",
@@ -226,14 +229,11 @@
     "Operating Systems/End Semester/attachments",
     "Operating Systems/End Semester",
     "Java/Exception Handling/Exception Handling.md",
-    "Java/End Semester.md",
     "Java/Lab/Model Lab Practice.md",
     "Java/IO Streams",
     "Java/Lab/attachments",
     "Java/Lab",
-    "Cloud Computing/Cloud Computing.md",
     "Youtube",
-    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
     "Cloud Computing"
   ]
 }
