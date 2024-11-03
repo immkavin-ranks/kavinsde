@@ -26,3 +26,15 @@ platform independent byte code is interpreted by java virtual machine.
 
 pointers - operator overloading - multiple inheritance - explicit memory allocation
 
+static member can be accessed without creating the object of the class.
+
+Boolean - byte - char - double - float - int - long - short
+
+Non access modifiers: static - final - abstract - synchronized
+
+this - reference to the object of the current class
+
+simulate `finalize()` using `System.gc()` explicitly. 
+
+aggregation - HAS A relationship - A class has another class reference as its data member. `classRef.anotherClassRef.property -> student.address.street` 
+

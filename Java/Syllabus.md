@@ -1,23 +1,23 @@
 ## UNIT-I: Fundamentals of Java
-- [ ] Basic concepts of OOPs 
-- [ ] Benefits and Applications of OOPs
-- [ ] Java evolution
-- [ ] Overview of Java language 
-- [ ] classes and objects
-- [ ] Arrays, Strings and Vectors
-- [ ] Constructors 
-- [ ] Garbage collection
-- [ ] The 'finalize' method
-- [ ] Method overloading 
-- [ ] this, static and final usage
+- [x] Basic concepts of OOPs 
+- [x] Benefits and Applications of OOPs
+- [x] Java evolution
+- [x] Overview of Java language 
+- [x] classes and objects
+- [x] Arrays, Strings and Vectors
+- [x] Constructors 
+- [x] Garbage collection
+- [x] The 'finalize' method
+- [x] Method overloading 
+- [x] this, static and final usage
 - [x] Nested and inner classes
-- [ ] Inheritance 
+- [x] Inheritance 
 - [ ] method overriding
 - [ ] Abstract method and abstract classes
 - [ ] Final methods and final classes
 
 ## UNIT-II
-- [ ] Concept of Java 
+- [x] Concept of Java 
 - [ ] Interfaces
 - [ ] Packages 
 - [ ] Exception handling
