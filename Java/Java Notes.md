@@ -38,3 +38,5 @@ simulate `finalize()` using `System.gc()` explicitly.
 
 aggregation - HAS A relationship - A class has another class reference as its data member. `classRef.anotherClassRef.property -> student.address.street` 
 
+event: change in a state of the object
+
