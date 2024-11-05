@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb791b190575bd4c",
+        "id": "61ff919776f5fe94",
         "type": "tabs",
         "children": [
           {
-            "id": "d7737ec56c5678b2",
+            "id": "d061ed8533fa752b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Notes"
-            }
-          },
-          {
-            "id": "852e6b5edb54e8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Syllabus.md",
+                "file": "Operating Systems/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Syllabus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,17 +186,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "852e6b5edb54e8df",
+  "active": "d061ed8533fa752b",
   "lastOpenFiles": [
-    "Java/Java Notes.md",
+    "Operating Systems/Syllabus.md",
+    "Operating Systems/OS Notes.md",
     "Java/Syllabus.md",
+    "Java/Java Notes.md",
     "Java/Programs.md",
     "Java/End Semester.md",
     "Java/AWT/AWT Controls.md",
     "Java/Exception Handling/Exception Handling.md",
     "Java/IO Streams/IO Streams.md",
     "Java/Lab/Model Lab Practice.md",
-    "Operating Systems/OS Notes.md",
     "index.html",
     "Operating Systems/Memory Management.md",
     "Data and Communication networks/DCN Notes.md",
@@ -242,7 +228,6 @@
     "Operating Systems/End Semester/attachments/Pasted image 20241015090639.png",
     "Operating Systems/End Semester/attachments/Pasted image 20241015085846.png",
     "Operating Systems/End Semester/attachments/Pasted image 20241015085244.png",
-    "Operating Systems/End Semester/Logical File System.md",
     "Operating Systems/End Semester/attachments",
     "Operating Systems/End Semester",
     "Java/IO Streams",
