@@ -1,15 +1,14 @@
-# How Computers Work
-
+**How Computers Work**
 - Input is data we give to our computers
 - Processing is comprised of the translation of input and the instructions given for output
 - Memory is used to store either temporary or permanent information
 - Output is the information that gets returned by the computer
 
-# Introduction to Operating Systems
+**Introduction to Operating Systems**
 
 >An **Operating System,** or OS, is system software that’s responsible for handling the basic functionalities. At the core of an operating system is the **_kernel_** which manages all the interactions between the hardware and software components of a computer.
 
-## Functions of an OS
+**Functions of an OS**
 
 Some of the vital functions of an OS:
 
@@ -74,3 +73,17 @@ condition variable:
 - wait and notify based on condition
 
 atomic variables:  The variable is atomic because the operations required to modify it take place, from our threads’ perspective, in exactly one atomic step.
+
+**synchronization conditions for a critical section:**
+- mutual exclusion: no more than one thread may access critical section at a given time.
+- progress: if no thread is currently inside the critical section, a thread attempting to access it must be allowed to do so.
+- bounded waiting: each thread that wishes to gain access to a critical section must, at some point, gain access.
+
+lifecycle of a process -> new, ready, active, blocked, terminated
+
+memory: size and speed
+
+paging: spreading processes' memory across non-contiguous locations.
+
+file control block: metadata, file permissions, times, access
+

@@ -20,8 +20,9 @@
 - [ ] Process scheduling functions and policies
 - [ ] Evaluation of Round Robin
 - [ ] Multiprogramming performance
-- [ ] Process synchronization/Race condition
-- [ ] Synchronization mechanism
+- [ ] Process synchronization
+- [ ] Race condition
+- [x] Synchronization mechanism
 - [ ] Deadlock embrace prevention and detection
 - [ ] Recovery methods
 
