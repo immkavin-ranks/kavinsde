@@ -89,3 +89,5 @@ file control block: metadata, file permissions, times, access
 file permissions: read, write, execute
 
 layers of file system: application programs, logical file system, file organization module, basic file system, IO control, devices
+
+The kernel manages the scheduling of tasks, **buffering** (storing data in memory when transferring between a computer and IO devices), **spooling** (holding output data for an IO device), etc.
