@@ -86,4 +86,6 @@ memory: size and speed
 paging: spreading processes' memory across non-contiguous locations.
 
 file control block: metadata, file permissions, times, access
+file permissions: read, write, execute
 
+layers of file system: application programs, logical file system, file organization module, basic file system, IO control, devices
