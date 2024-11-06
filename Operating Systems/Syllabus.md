@@ -1,30 +1,30 @@
 **Unit I: Evolution and Basics**
-- [ ] Evolution of operating system
-- [ ] Types of operating system
-- [ ] Different views of OS
-- [ ] Design and Implementation of OS
-- [ ] I/O programming concepts
-- [ ] Interrupt structure and processing
+- [x] Evolution of operating system
+- [x] Types of operating system
+- [x] Different views of OS
+- [x] Design and Implementation of OS
+- [x] I/O programming concepts
+- [x] Interrupt structure and processing
 
 **Unit II: Memory Management**
-- [ ] Single contiguous allocation
-- [ ] Partitioned allocation
-- [ ] Relocatable partitioned allocation
-- [ ] Pages and Demand pages memory management
-- [ ] Segmented memory management
-- [ ] Segmented and demand paged memory management
-- [ ] Swapping and overlay techniques
+- [x] Single contiguous allocation
+- [x] Partitioned allocation
+- [x] Relocatable partitioned allocation
+- [x] Pages and Demand pages memory management
+- [x] Segmented memory management
+- [x] Segmented and demand paged memory management
+- [x] Swapping and overlay techniques
 
 **Unit III: Processor Management**
-- [ ] Job scheduling
-- [ ] Process scheduling functions and policies
-- [ ] Evaluation of Round Robin
-- [ ] Multiprogramming performance
-- [ ] Process synchronization
-- [ ] Race condition
-- [ ] Synchronization mechanism
-- [ ] Deadlock embrace prevention and detection
-- [ ] Recovery methods
+- [x] Job scheduling
+- [x] Process scheduling functions and policies
+- [x] Evaluation of Round Robin
+- [x] Multiprogramming performance
+- [x] Process synchronization
+- [x] Race condition
+- [x] Synchronization mechanism
+- [x] Deadlock embrace prevention and detection
+- [x] Recovery methods
 
 **Unit IV: Device Management**
 - [x] Techniques for Device Management 
