@@ -22,20 +22,20 @@
 - [ ] Multiprogramming performance
 - [ ] Process synchronization
 - [ ] Race condition
-- [x] Synchronization mechanism
+- [ ] Synchronization mechanism
 - [ ] Deadlock embrace prevention and detection
 - [ ] Recovery methods
 
 **Unit IV: Device Management**
-- [ ] Techniques for Device Management 
-- [ ] Device characteristics
-- [ ] I/O traffic controllers
-- [ ] I/O scheduler
-- [ ] I/O Device handlers
-- [ ] Virtual Devices
-- [ ] Spooling
+- [x] Techniques for Device Management 
+- [x] Device characteristics
+- [x] I/O traffic controllers
+- [x] I/O scheduler
+- [x] I/O Device handlers
+- [x] Virtual Devices
+- [x] Spooling
 
 **Unit V: Information Management**
-- [ ] Simple file system
-- [ ] General model of a file system
-- [ ] Physical and logical file systems
+- [x] Simple file system
+- [x] General model of a file system
+- [x] Physical and logical file systems
