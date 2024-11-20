@@ -4,7 +4,7 @@
 - [ ] smallest of two numbers
 - [ ] largest of three numbers
 - [ ] smallest of three numbers
-- [ ] Fibonacci seriesp
+- [ ] Fibonacci series
 - [ ] Armstrong number
 - [ ] reverse a number
 - [ ] sum of first n numbers
