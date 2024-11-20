@@ -1,0 +1,30 @@
+- [ ] odd or even
+- [ ] arithmetic operators
+- [ ] biggest of two numbers
+- [ ] smallest of two numbers
+- [ ] largest of three numbers
+- [ ] smallest of three numbers
+- [ ] Fibonacci series
+- [ ] Armstrong number
+- [ ] reverse a number
+- [ ] sum of first n numbers
+- [ ] arithmetic operator or not
+- [ ] vowel or not - switch
+- [ ] factorial
+- [ ] prime number
+- [ ] leap year or not
+- [ ] matrix addition
+- [ ] matrix subtraction
+- [ ] palindrome
+- [ ] swapping of two numbers
+- [ ] string manipulation
+- [ ] classes and objects
+- [ ] method overloading
+- [ ] method overriding
+- [ ] constructors
+- [ ] inheritance
+- [ ] interfaces
+- [ ] multithreading
+- [ ] applet face
+- [ ] applet flag
+- [ ] AWT set background color buttons
