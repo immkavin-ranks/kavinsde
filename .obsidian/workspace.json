@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2793311d5fa20f2e",
+        "id": "eccaf11fd542f20e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8bcc486b8b7559",
+            "id": "20d3545e92789b57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/main-lab.md",
+                "file": "Biometrics/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main-lab"
+              "title": "Syllabus"
+            }
+          },
+          {
+            "id": "1b4e6c6142cadb80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -186,14 +196,42 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c8bcc486b8b7559",
+  "active": "20d3545e92789b57",
   "lastOpenFiles": [
+    "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_aa2d65f5.jpg",
+    "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_4db90c44.jpg",
+    "Biometrics/attachments",
+    "Blockchain/Important terms.md",
+    "Biometrics/Syllabus.md",
+    "Blockchain/Introduction.md",
+    "Inter-collegiate/National College, Tiruchirappalli.md",
+    "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
+    "AI/Artificial Intelligence and Expert Systems.md",
+    "AI/attachments/WhatsApp Image 2024-12-09 at 15.05.30_0f017784.jpg",
+    "AI/attachments/WhatsApp Image 2024-12-09 at 15.05.29_782d0b26.jpg",
+    "AI/attachments",
+    "Web Technology/Assignment - 1.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Operating Systems/OS Notes.md",
+    "Spirit of Me",
+    "Blockchain/Resources.md",
+    "Blockchain/attachments/Pasted image 20241221201332.png",
+    "Blockchain/attachments",
+    "Android/Android Introduction.md",
+    "Untitled 1",
+    "Blockchain",
+    "Web Dev Bootcamp/Untitled.md",
+    "Web Technology/Untitled",
+    "Web Dev Bootcamp",
+    "Web Technology",
+    "Biometrics",
+    "Cloud Computing/Cloud Computing.md",
+    "Ethical Hacking/Udacity/Ethical Hacker.md",
     "Java/Lab/Model Lab Practice.md",
     "Java/main-lab.md",
     "Python/Python lab.md",
-    "Python",
     "Java/Programs.md",
-    "Operating Systems/OS Notes.md",
     "Java/Java Notes.md",
     "Java/Syllabus.md",
     "Java/End Semester.md",
@@ -203,37 +241,9 @@
     "Data and Communication networks/HDLC/High-level Data Link Control (HDLC).md",
     "Data and Communication networks/The OSI Model/Open System Interconnection.md",
     "Data and Communication networks/DCN Notes.md",
-    "Data and Communication networks/End Semester/Networks - End Semester.md",
-    "Data and Communication networks/D-D Conversion/Digital-to-Digital Conversion.md",
-    "Data and Communication networks/A-D Conversion/Analog to Digital Conversion.md",
-    "App/App.md",
     "Data and Communication networks/hybrid topology.canvas",
-    "Kavin Docs/U22BCA141.md",
-    "Operating Systems/Types of Operating Systems.md",
-    "Operating Systems/End Semester/Logical File System.md",
-    "Operating Systems/Syllabus.md",
-    "Operating Systems/Process Management Problem.md",
-    "Operating Systems/Memory Management.md",
-    "Operating Systems/Codecademy Resources.md",
-    "Operating Systems/End Semester/Definitions.md",
     "Operating Systems/attachments/Pasted image 20241027222038.png",
-    "Java/AWT/AWT Controls.md",
-    "Java/Exception Handling/Exception Handling.md",
-    "Java/IO Streams/IO Streams.md",
-    "index.html",
-    "Operating Systems/attachments",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.55_19532538.jpg",
-    "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_cedc26b8.jpg",
-    "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_a66990f1.jpg",
-    "Data and Communication networks/End Semester",
-    "Operating Systems/End Semester/attachments/Pasted image 20241015090639.png",
-    "Operating Systems/End Semester/attachments/Pasted image 20241015085846.png",
-    "Operating Systems/End Semester/attachments/Pasted image 20241015085244.png",
-    "Operating Systems/End Semester/attachments",
-    "Operating Systems/End Semester",
-    "Java/IO Streams",
-    "Java/Lab/attachments",
-    "Java/Lab",
-    "Youtube"
+    "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_cedc26b8.jpg"
   ]
 }

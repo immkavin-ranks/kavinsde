@@ -1,30 +1,30 @@
-- [ ] odd or even
-- [ ] arithmetic operators
+- [x] odd or even
+- [x] arithmetic operators
 - [ ] biggest of two numbers
 - [ ] smallest of two numbers
-- [ ] largest of three numbers
-- [ ] smallest of three numbers
-- [ ] Fibonacci series
+- [x] largest of three numbers
+- [x] smallest of three numbers
+- [x] Fibonacci series
 - [ ] Armstrong number
 - [ ] reverse a number
-- [ ] sum of first n numbers
+- [x] sum of first n numbers
 - [ ] arithmetic operator or not
-- [ ] vowel or not - switch
-- [ ] factorial
+- [x] vowel or not - switch
+- [x] factorial
 - [ ] prime number
-- [ ] leap year or not
-- [ ] matrix addition
-- [ ] matrix subtraction
+- [x] leap year or not
+- [x] matrix addition
+- [x] matrix subtraction
 - [ ] palindrome
-- [ ] swapping of two numbers
-- [ ] string manipulation
-- [ ] classes and objects
-- [ ] method overloading
-- [ ] method overriding
+- [x] swapping of two numbers
+- [x] string manipulation
+- [x] classes and objects
+- [x] method overloading
+- [x] method overriding
 - [ ] constructors
-- [ ] inheritance
+- [x] inheritance
 - [ ] interfaces
-- [ ] multithreading
-- [ ] applet face
-- [ ] applet flag
+- [x] multithreading
+- [x] applet face
+- [x] applet flag
 - [ ] AWT set background color buttons
