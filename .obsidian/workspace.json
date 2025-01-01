@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f8637db73dd6c4c4",
+        "id": "e3c5a86f086fe6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "a6573b0afdafda1f",
+            "id": "911be1932ed722b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Java servlets - Hello world.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Java servlets - Hello world"
             }
           }
         ]
@@ -182,18 +186,27 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a6573b0afdafda1f",
+  "active": "911be1932ed722b6",
   "lastOpenFiles": [
+    "Miscellaneous/attachments/Pasted image 20250101151517.png",
+    "Miscellaneous/attachments/Pasted image 20250101150329.png",
+    "Miscellaneous/attachments/Pasted image 20250101150321.png",
+    "Miscellaneous/attachments",
+    "Miscellaneous/attachments/HelloWorld.java",
+    "2025-01-01.md",
+    "Miscellaneous/Java servlets - Hello world.md",
+    "Miscellaneous",
+    "Mischellaneous",
+    "Web Technology/Assignment - 1.md",
+    "dotNET/Assignment.md",
+    "AI/Secrets.md",
+    "AI/Assignment.md",
     "Web Dev Bootcamp/ICP Resources.md",
     "Blockchain/Resources.md",
-    "Web Technology/Assignment - 1.md",
-    "AI/Assignment.md",
-    "AI/Secrets.md",
     "AI/Artificial Intelligence and Expert Systems.md",
     "App/App.md",
     "Untitled.md",
     "Android/Android Introduction.md",
-    "dotNET/Assignment.md",
     "Biometrics/Syllabus.md",
     "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_aa2d65f5.jpg",
     "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_4db90c44.jpg",
@@ -212,24 +225,15 @@
     "Blockchain/attachments",
     "Untitled 1",
     "Blockchain",
-    "Web Technology/Untitled",
-    "Web Dev Bootcamp",
-    "Web Technology",
-    "Biometrics",
     "Cloud Computing/Cloud Computing.md",
     "Ethical Hacking/Udacity/Ethical Hacker.md",
     "Java/Lab/Model Lab Practice.md",
     "Java/main-lab.md",
     "Python/Python lab.md",
     "Java/Programs.md",
-    "Java/Java Notes.md",
-    "Java/Syllabus.md",
-    "Java/End Semester.md",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.53_33686061.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_31953092.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.14.03_2c81593a.jpg",
-    "Data and Communication networks/hybrid topology.canvas",
-    "Operating Systems/attachments/Pasted image 20241027222038.png",
-    "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.55_19532538.jpg"
+    "Data and Communication networks/hybrid topology.canvas"
   ]
 }
