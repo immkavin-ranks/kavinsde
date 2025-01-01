@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c5a86f086fe6b2",
+        "id": "3b6e8278e507fe21",
         "type": "tabs",
         "children": [
           {
-            "id": "911be1932ed722b6",
+            "id": "004cc9e686a7d336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Miscellaneous/Java servlets - Hello world.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Java servlets - Hello world"
+              "title": "New tab"
             }
           }
         ]
@@ -186,15 +182,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "911be1932ed722b6",
+  "active": "004cc9e686a7d336",
   "lastOpenFiles": [
+    "Miscellaneous/Java servlets - Hello world.md",
     "Miscellaneous/attachments/Pasted image 20250101151517.png",
     "Miscellaneous/attachments/Pasted image 20250101150329.png",
     "Miscellaneous/attachments/Pasted image 20250101150321.png",
     "Miscellaneous/attachments",
     "Miscellaneous/attachments/HelloWorld.java",
     "2025-01-01.md",
-    "Miscellaneous/Java servlets - Hello world.md",
     "Miscellaneous",
     "Mischellaneous",
     "Web Technology/Assignment - 1.md",
@@ -233,7 +229,6 @@
     "Java/Programs.md",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.53_33686061.jpg",
     "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.22.54_31953092.jpg",
-    "Kavin Docs/attachments/WhatsApp Image 2024-09-11 at 08.14.03_2c81593a.jpg",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }
