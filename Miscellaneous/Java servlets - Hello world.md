@@ -3,7 +3,7 @@ Platform: Windows
 
 **Requirements**:
 - Java 11 or above
-- Tomcat server 10.x [https://tomcat.apache.org/](https://tomcat.apache.org/)
+- Tomcat server 10.x from https://tomcat.apache.org/
 
 **Setup** 
 
@@ -22,7 +22,7 @@ set CATALINA_HOME=C:\apache-tomcat-123456
 
 **Start** tomcat `%CATALINA_HOME%\bin\startup.bat`
 
-**Visit**: [http://localhost:8080/](http://localhost:8080/)
+**Visit**: http://localhost:8080/
 
 ![](attachments/Pasted%20image%2020250101150329.png)
 
@@ -111,7 +111,7 @@ webapps/ROOT/
 There is your servlet. 🤩
 
 You can explore more examples, that is already available in your server,
-Point to [http://localhost:8080/examples/servlets/](http://localhost:8080/examples/servlets/)
+Point to http://localhost:8080/examples/servlets/
 
 **Resources**:
 1. https://www.tutorialspoint.com/servlets/servlets-first-example.htm
@@ -119,4 +119,4 @@ Point to [http://localhost:8080/examples/servlets/](http://localhost:8080/exampl
 3. https://tomcat.apache.org/tomcat-10.1-doc/appdev/sample/
 4. https://www.tutorialspoint.com/servlets/servlets-environment-setup.htm
 
-**Author**: [Kavin Manoharan](https://www.linkedin.com/in/kavinsde)  @  [GitHub](https://github.com/immkavin-ranks/)
+**Author**: [Kavin Manoharan](https://www.linkedin.com/in/kavinsde)  @  [Visit GitHub](https://github.com/immkavin-ranks/)
