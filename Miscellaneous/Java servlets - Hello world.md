@@ -106,6 +106,7 @@ webapps/ROOT/
 **Start** the tomcat server
 
 **Point** your browser to http://localhost:8080/helloworld
+
 ![](attachments/Pasted%20image%2020250101151517.png)
 
 There is your servlet. 🤩
