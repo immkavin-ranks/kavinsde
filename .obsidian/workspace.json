@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a972f7a8639b79ff",
+        "id": "4fa4be448041e8db",
         "type": "tabs",
         "children": [
           {
-            "id": "9019fbd9a1b5c50f",
+            "id": "e2b8c57e57938872",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,7 +182,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c74652eda4109685",
+  "active": "e2b8c57e57938872",
   "lastOpenFiles": [
     "Diary/2025-01-01.md",
     "Diary",
