@@ -1,9 +1,9 @@
 Date: 01-01-2025 
-Platform: windows
+Platform: Windows
 
 **Requirements**:
-- >= Java 11
-- Tomcat server 10.x https://tomcat.apache.org/
+- Java 11 or above
+- Tomcat server 10.x [https://tomcat.apache.org/](https://tomcat.apache.org/)
 
 **Setup** 
 
@@ -14,22 +14,19 @@ set JAVA_HOME=C:\jdk1234
 ```
 
 
-**Unzip** tomcat server and put it in C:
-C:\apache-tomcat-123456
+**Unzip** tomcat server and put it in C:\apache-tomcat-123456
 
 ```
 set CATALINA_HOME=C:\apache-tomcat-123456
 ```
 
-**Start** tomcat
-`%CATALINA_HOME%\bin\startup.bat`
+**Start** tomcat `%CATALINA_HOME%\bin\startup.bat`
 
-**Visit**: http://localhost:8080/
+**Visit**: [http://localhost:8080/](http://localhost:8080/)
 
 ![](attachments/Pasted%20image%2020250101150329.png)
 
-To **Shutdown** the server
-`%CATALINA_HOME%\bin\shutdown`
+To **Shutdown** the server `%CATALINA_HOME%\bin\shutdown`
 
 **Sample Code**
 ```java
@@ -67,13 +64,16 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
 ```
 
 **Compile** with servlet API:
+
 `javac -cp "C:\apache-tomcat-123456\lib\servlet-api.jar" HelloWorld.java`
-Copy the class file, then
-👇
-Servlet **Deployment**
+
+Copy the class file, then 👇
+
+**Servlet** **Deployment**
 
 Go to:  `C:\apache-tomcat-123456/webapps/ROOT/WEB-INF/classes` and *paste* the class file.
-if `classes` not present already, create and paste the `.class` file there.
+
+If `classes` not present already, create and paste the `.class` file there.
 
 **Edit**: web.xml in `C:\apache-tomcat-123456/webapps/ROOT/WEB-INF/`
 
@@ -92,27 +92,31 @@ if `classes` not present already, create and paste the `.class` file there.
 Paste these entries inside the `<web-app>...</web-app>`in web.xml
 
 **Structure**:
+
 In  `C:\apache-tomcat-123456`
+
+```
 webapps/ROOT/
     ├── WEB-INF/
         ├── classes/
         │      └── HelloWorld . class
         └── web.xml
-
+```
 
 **Start** the tomcat server
+
 **Point** your browser to http://localhost:8080/helloworld
 ![](attachments/Pasted%20image%2020250101151517.png)
+
 There is your servlet. 🤩
 
-you can explore more examples, that is already available in your server,
-Point to http://localhost:8080/examples/servlets/
+You can explore more examples, that is already available in your server,
+Point to [http://localhost:8080/examples/servlets/](http://localhost:8080/examples/servlets/)
 
-Resources:
+**Resources**:
 1. https://www.tutorialspoint.com/servlets/servlets-first-example.htm
 2. https://tomcat.apache.org/tomcat-10.1-doc/appdev/installation.html
 3. https://tomcat.apache.org/tomcat-10.1-doc/appdev/sample/
 4. https://www.tutorialspoint.com/servlets/servlets-environment-setup.htm
 
-Author: [Kavin Manoharan](https://www.linkedin.com/in/kavinsde)
-[Visit GitHub](https://github.com/immkavin-ranks/)
+**Author**: [Kavin Manoharan](https://www.linkedin.com/in/kavinsde)  @  [GitHub](https://github.com/immkavin-ranks/)
