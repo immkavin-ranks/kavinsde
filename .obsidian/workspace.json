@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b6e8278e507fe21",
+        "id": "a972f7a8639b79ff",
         "type": "tabs",
         "children": [
           {
-            "id": "004cc9e686a7d336",
+            "id": "9019fbd9a1b5c50f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,15 +182,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "004cc9e686a7d336",
+  "active": "c74652eda4109685",
   "lastOpenFiles": [
+    "Diary/2025-01-01.md",
+    "Diary",
     "Miscellaneous/Java servlets - Hello world.md",
     "Miscellaneous/attachments/Pasted image 20250101151517.png",
     "Miscellaneous/attachments/Pasted image 20250101150329.png",
     "Miscellaneous/attachments/Pasted image 20250101150321.png",
     "Miscellaneous/attachments",
     "Miscellaneous/attachments/HelloWorld.java",
-    "2025-01-01.md",
     "Miscellaneous",
     "Mischellaneous",
     "Web Technology/Assignment - 1.md",
@@ -220,7 +221,6 @@
     "Blockchain/attachments/Pasted image 20241221201332.png",
     "Blockchain/attachments",
     "Untitled 1",
-    "Blockchain",
     "Cloud Computing/Cloud Computing.md",
     "Ethical Hacking/Udacity/Ethical Hacker.md",
     "Java/Lab/Model Lab Practice.md",
