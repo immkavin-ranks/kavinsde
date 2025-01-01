@@ -69,5 +69,6 @@ public available
 bert-base-uncased
 https://huggingface.co/google-bert/bert-base-uncased
 
+stopped this lore and just wrote this https://www.codecademy.com/article/the-ml-process
 
-
+But this is not ending here 😈
