@@ -11,10 +11,14 @@
             "id": "463c84fd6dae93fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/JSP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JSP"
             }
           }
         ]
@@ -184,6 +188,7 @@
   },
   "active": "463c84fd6dae93fd",
   "lastOpenFiles": [
+    "Miscellaneous/JSP.md",
     "AI/Assignment1.md",
     "AI/Assignment.md",
     "AI/Secrets.md",
@@ -231,7 +236,6 @@
     "Ethical Hacking/Udacity/Ethical Hacker.md",
     "Java/Lab/Model Lab Practice.md",
     "Java/main-lab.md",
-    "Python/Python lab.md",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }
