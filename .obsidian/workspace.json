@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60b550d984b60414",
+        "id": "b713c4701b2cac57",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d6bd51fc12b5e0",
+            "id": "f14200f092cf1eaf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,13 +184,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d6d6bd51fc12b5e0",
+  "active": "f14200f092cf1eaf",
   "lastOpenFiles": [
-    "Miscellaneous/Java Server Pages.md",
-    "Untitled.canvas",
+    "Board.md",
     "2025-01-03.md",
     "Untitled Kanban.md",
-    "Board.md",
+    "Miscellaneous/Java Server Pages.md",
+    "Untitled.canvas",
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 16.43.05_711976b6.jpg",
     "Cloud Computing/17-10-2024.md",
     "dotNET/Assignment.md",
