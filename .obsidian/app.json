@@ -12,5 +12,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./attachments",
   "strictLineBreaks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "showInlineTitle": true
 }

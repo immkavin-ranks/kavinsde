@@ -1,4 +1,4 @@
-Wamp server for mysql + Tomcat server
+Wamp server for MySQL + Tomcat server
 
 **Configure WampServer's Apache to work with Tomcat:**
 

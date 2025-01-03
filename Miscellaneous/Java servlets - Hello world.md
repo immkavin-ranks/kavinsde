@@ -63,7 +63,7 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
 
 ```
 
-**Compile** with servlet API:
+**Compile** with <mark style="background: #FFB8EBA6;">servlet</mark> API:
 
 `javac -cp "C:\apache-tomcat-123456\lib\servlet-api.jar" HelloWorld.java`
 

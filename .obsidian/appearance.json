@@ -5,5 +5,7 @@
   "baseFontSize": 17,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Helvetica",
-  "monospaceFontFamily": "Fira code"
+  "monospaceFontFamily": "Fira code",
+  "nativeMenus": true,
+  "showViewHeader": true
 }
