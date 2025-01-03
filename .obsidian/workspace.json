@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscellaneous/JSP.md",
+                "file": "Miscellaneous/Java Server Pages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSP"
+              "title": "Java Server Pages"
             }
           }
         ]
@@ -188,7 +188,16 @@
   },
   "active": "463c84fd6dae93fd",
   "lastOpenFiles": [
+    "Miscellaneous/attachments/Pasted image 20250103090329.png",
+    "Miscellaneous/attachments/Pasted image 20250103090316.png",
+    "Miscellaneous/attachments/Pasted image 20250103090104.png",
+    "Miscellaneous/attachments/Pasted image 20250103090040.png",
+    "Miscellaneous/attachments/Pasted image 20250103090031.png",
+    "Miscellaneous/attachments/Pasted image 20250103090015.png",
+    "Miscellaneous/attachments/Pasted image 20250103085109.png",
+    "Miscellaneous/attachments/Pasted image 20250103085059.png",
     "Miscellaneous/JSP.md",
+    "Miscellaneous/Java Server Pages.md",
     "AI/Assignment1.md",
     "AI/Assignment.md",
     "AI/Secrets.md",
@@ -196,7 +205,6 @@
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 17.56.56_eff303ff.jpg",
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 17.56.56_d2013ef2.jpg",
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 16.43.06_7ec1a76a.jpg",
-    "Web Technology/attachments/WhatsApp Image 2024-12-09 at 16.43.05_711976b6.jpg",
     "Web Technology/attachments",
     "Android/Android Introduction.md",
     "Untitled.canvas",
@@ -207,9 +215,6 @@
     "Diary/2025-01-01.md",
     "Diary",
     "Miscellaneous/Java servlets - Hello world.md",
-    "Miscellaneous/attachments/Pasted image 20250101151517.png",
-    "Miscellaneous/attachments/Pasted image 20250101150329.png",
-    "Miscellaneous/attachments/Pasted image 20250101150321.png",
     "Miscellaneous/attachments",
     "Miscellaneous/attachments/HelloWorld.java",
     "Miscellaneous",
@@ -222,20 +227,15 @@
     "App/App.md",
     "Untitled.md",
     "Biometrics/Syllabus.md",
-    "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_aa2d65f5.jpg",
-    "Biometrics/attachments/WhatsApp Image 2024-12-06 at 14.54.51_4db90c44.jpg",
     "Biometrics/attachments",
     "Blockchain/Important terms.md",
     "Blockchain/Introduction.md",
     "Inter-collegiate/National College, Tiruchirappalli.md",
     "Inter-collegiate/Dhanalakshmi Srinivasan College, Perambalur.md",
-    "AI/attachments/WhatsApp Image 2024-12-09 at 15.05.30_0f017784.jpg",
     "Untitled 1.md",
     "Operating Systems/OS Notes.md",
     "Cloud Computing/Cloud Computing.md",
     "Ethical Hacking/Udacity/Ethical Hacker.md",
-    "Java/Lab/Model Lab Practice.md",
-    "Java/main-lab.md",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }

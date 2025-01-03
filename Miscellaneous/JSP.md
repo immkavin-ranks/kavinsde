@@ -3,7 +3,6 @@
 I'll help you create a JSP page to display data from your MySQL database. First, let's write the code for database connectivity and then create a JSP page to show the users table data.
 
 
-
 ```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*" %>
