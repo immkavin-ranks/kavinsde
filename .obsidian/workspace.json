@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38cac675f2bf98bd",
+        "id": "60b550d984b60414",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b3c1a9e663a053",
+            "id": "d6d6bd51fc12b5e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -141,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -193,8 +184,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6d769a505005d5a2",
+  "active": "d6d6bd51fc12b5e0",
   "lastOpenFiles": [
+    "Miscellaneous/Java Server Pages.md",
     "Untitled.canvas",
     "2025-01-03.md",
     "Untitled Kanban.md",
@@ -205,7 +197,6 @@
     "attachments/Recording 20250101164307.webm",
     "Miscellaneous/Java servlets - Hello world.md",
     "Miscellaneous/JSP.md",
-    "Miscellaneous/Java Server Pages.md",
     "Miscellaneous/attachments/Pasted image 20250103090329.png",
     "Miscellaneous/attachments/Pasted image 20250103090316.png",
     "Miscellaneous/attachments/Pasted image 20250103090104.png",

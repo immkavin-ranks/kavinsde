@@ -1,11 +1,11 @@
 {
-  "textFontFamily": "Helvetica",
+  "textFontFamily": "Helvetica,JetBrains Mono",
   "accentColor": "",
   "theme": "moonstone",
   "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Helvetica",
-  "monospaceFontFamily": "Fira code",
-  "nativeMenus": true,
+  "interfaceFontFamily": "Helvetica,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "nativeMenus": false,
   "showViewHeader": true
 }

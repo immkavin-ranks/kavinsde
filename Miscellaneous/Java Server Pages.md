@@ -41,7 +41,7 @@ Project: C:\apache-tomcat-10.1.34\webapps\testjsp
 
 ![](attachments/Pasted%20image%2020250103085109.png)
 
-Download mysql connector https://dev.mysql.com/downloads/connector/j/
+Download MySQL connector https://dev.mysql.com/downloads/connector/j/
 
 Place the jar file in following locations:
 
@@ -50,7 +50,7 @@ C:\apache-tomcat-10.1.34\webapps\testjsp\WEB-INF\lib
 
 Create a test.jsp file in your project folder: see the image above
 
-```
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <html>
 <body>
@@ -72,7 +72,7 @@ Now to DB example
 
 Add this context configuration to your `C:\apache-tomcat-10.1.34\conf\context.xml` inside the `<Context>` tag:
 
-```
+```xml
 <Resource name="jdbc/MySQLDB"
           auth="Container"
           type="javax.sql.DataSource"
@@ -87,7 +87,7 @@ Add this context configuration to your `C:\apache-tomcat-10.1.34\conf\context.xm
 
 Create a new file `C:\apache-tomcat-10.1.34\webapps\testjsp\WEB-INF\web.xml` if it doesn't exist:
 
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -108,7 +108,8 @@ Create a new file `C:\apache-tomcat-10.1.34\webapps\testjsp\WEB-INF\web.xml` if 
 
 display_users.jsp
 
-```<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+```jsp
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ page import="java.sql.*" %>
 <!DOCTYPE html>
 <html>
