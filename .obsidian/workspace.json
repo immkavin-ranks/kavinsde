@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b713c4701b2cac57",
+        "id": "11e29bd1763983d4",
         "type": "tabs",
         "children": [
           {
-            "id": "f14200f092cf1eaf",
+            "id": "f948b34f3d774600",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Technology/Assignment - 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Assignment - 1"
+              "title": "New tab"
             }
           }
         ]
@@ -188,8 +184,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f14200f092cf1eaf",
+  "active": "f948b34f3d774600",
   "lastOpenFiles": [
+    "Web Technology/Assignment - 1.md",
     "dotNET/Assignment.md",
     "Board.md",
     "2025-01-03.md",
@@ -225,7 +222,6 @@
     "Miscellaneous/attachments/HelloWorld.java",
     "Miscellaneous",
     "Mischellaneous",
-    "Web Technology/Assignment - 1.md",
     "Web Dev Bootcamp/ICP Resources.md",
     "Blockchain/Resources.md",
     "AI/Artificial Intelligence and Expert Systems.md",
