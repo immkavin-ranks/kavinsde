@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## College
 
-- [ ] .NET assignment
-- [ ] Food waiting time prediction
 - [ ] Water jug problem
 
 
