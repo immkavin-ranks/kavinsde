@@ -4,11 +4,6 @@ kanban-plugin: board
 
 ---
 
-## College
-
-- [ ] Water jug problem
-
-
 ## Big Things
 
 - [ ] Blockchain
@@ -16,15 +11,10 @@ kanban-plugin: board
 - [ ] Portfolio
 
 
-## Grind
-
-- [ ] GCD of Strings Problem
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false]}
 ```
 %%

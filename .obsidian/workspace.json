@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de8b43a63207cfb3",
+        "id": "f5f382d4c7a4da3f",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a629be2e9fe005",
+            "id": "e65752cf4a52e070",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Anagram Checker.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Anagram Checker"
+              "title": "New tab"
             }
           }
         ]
@@ -188,12 +184,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b6a629be2e9fe005",
+  "active": "e65752cf4a52e070",
   "lastOpenFiles": [
-    "Web Dev Bootcamp/ICP Resources.md",
-    "DSA/Anagram Checker.md",
-    "Web Technology/Syllabus.md",
+    "Resources/Get Started with Drizzle and Supabase.md",
     "Board.md",
+    "Resources",
+    "Biometrics/Unit 1.md",
+    "Biometrics/Syllabus.md",
+    "Miscellaneous/Deploy Next JS in IIS, Apache WAMP, Nginx.md",
+    "DSA/Anagram Checker.md",
+    "Web Dev Bootcamp/ICP Resources.md",
+    "Web Technology/Syllabus.md",
     "Android/Android Introduction.md",
     "Android/Android, Native Android Apps, Android SDK.md",
     "AI/Water Jug Problem.md",
@@ -223,7 +224,6 @@
     "AI/Secrets.md",
     "Web Technology/attachments",
     "Untitled 1.canvas",
-    "Untitled",
     "attachments",
     "Diary/2025-01-01.md",
     "Diary",
@@ -233,11 +233,7 @@
     "Mischellaneous",
     "Blockchain/Resources.md",
     "AI/Artificial Intelligence and Expert Systems.md",
-    "App/App.md",
-    "Untitled.md",
-    "Biometrics/Syllabus.md",
     "Biometrics/attachments",
-    "Blockchain/Important terms.md",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }
