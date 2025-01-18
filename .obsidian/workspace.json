@@ -11,10 +11,14 @@
             "id": "60a8c6ad3b9e23ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web Dev Bootcamp/ICP Resources.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ICP Resources"
             }
           }
         ]
@@ -186,6 +190,8 @@
   },
   "active": "60a8c6ad3b9e23ad",
   "lastOpenFiles": [
+    "Web Dev Bootcamp/attachments/Pasted image 20250118192941.png",
+    "Web Dev Bootcamp/attachments",
     "Miscellaneous/Remote Method Invocation in Java.md",
     "Miscellaneous/attachments/Screenshot 2025-01-18 133233.png",
     "Miscellaneous/attachments/Pasted image 20250118135044.png",
@@ -232,7 +238,6 @@
     "Miscellaneous/attachments/HelloWorld.java",
     "Miscellaneous",
     "Mischellaneous",
-    "Biometrics/attachments",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }
