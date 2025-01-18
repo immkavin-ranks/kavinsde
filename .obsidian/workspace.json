@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f382d4c7a4da3f",
+        "id": "3bb3e47993ec1324",
         "type": "tabs",
         "children": [
           {
-            "id": "e65752cf4a52e070",
+            "id": "f5e6eacba2c4e520",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Remote Method Invocation in Java.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Remote Method Invocation in Java"
             }
           }
         ]
@@ -184,8 +188,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e65752cf4a52e070",
+  "active": "f5e6eacba2c4e520",
   "lastOpenFiles": [
+    "Miscellaneous/attachments/Screenshot 2025-01-18 133233.png",
+    "Miscellaneous/Remote Method Invocation in Java.md",
+    "Miscellaneous/attachments/Pasted image 20250118135044.png",
+    "Miscellaneous/attachments/Pasted image 20250118134152.png",
+    "Miscellaneous/attachments/Screenshot 2025-01-18 133146.png",
+    "Miscellaneous/attachments/Screenshot 2025-01-18 132510.png",
     "Resources/Get Started with Drizzle and Supabase.md",
     "Board.md",
     "Resources",
@@ -214,11 +224,6 @@
     "Miscellaneous/attachments/Pasted image 20250103090329.png",
     "Miscellaneous/attachments/Pasted image 20250103090316.png",
     "Miscellaneous/attachments/Pasted image 20250103090104.png",
-    "Miscellaneous/attachments/Pasted image 20250103090040.png",
-    "Miscellaneous/attachments/Pasted image 20250103090031.png",
-    "Miscellaneous/attachments/Pasted image 20250103090015.png",
-    "Miscellaneous/attachments/Pasted image 20250103085109.png",
-    "Miscellaneous/attachments/Pasted image 20250103085059.png",
     "AI/Assignment1.md",
     "AI/Assignment.md",
     "AI/Secrets.md",
@@ -231,8 +236,6 @@
     "Miscellaneous/attachments/HelloWorld.java",
     "Miscellaneous",
     "Mischellaneous",
-    "Blockchain/Resources.md",
-    "AI/Artificial Intelligence and Expert Systems.md",
     "Biometrics/attachments",
     "Data and Communication networks/hybrid topology.canvas"
   ]
