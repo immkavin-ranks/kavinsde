@@ -193,3 +193,20 @@ Download the MySQL JDBC driver if you haven't already:
 - Extract the .jar file
 
 Profile: [Kavin - GitHub](https://github.com/immkavin-ranks/)
+
+1. *To check the port 1099 is available,*
+
+Open Command Prompt as **Administrator** and run:
+
+`netstat -ano | findstr :1099`
+
+If you see no output, the port is available.
+
+If port 1099 is in use, you can either: kill the process or use a different port.
+
+2. To kill a existing port
+
+Run: - `taskkill /F /PID <PID_number>
+`
+\* Process ID (PID) from the last number in `netstat` output
+
