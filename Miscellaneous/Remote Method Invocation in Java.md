@@ -31,7 +31,7 @@ INSERT INTO students (name, email) VALUES
 ![](attachments/Pasted%20image%2020250118134152.png)
 
 **Project folder structure**
-
+```
 java-rmi-mysql-demo/
 ├── Student.java
 ├── DatabaseService.java
@@ -40,6 +40,7 @@ java-rmi-mysql-demo/
 ├── Client.java
 └── lib/
     └── mysql-connector-j-9.1.0.jar
+```
 
 **Student.java**
 ```java
