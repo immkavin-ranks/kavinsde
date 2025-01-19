@@ -1,0 +1,3 @@
+- Trustless, Coordination = Decentralization => Blockchain
+![](attachments/Pasted%20image%2020250119213749.png)
+
