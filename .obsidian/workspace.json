@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5aae7ea1efe1d6d8",
+        "id": "9af14f7e0a502e19",
         "type": "tabs",
         "children": [
           {
-            "id": "60a8c6ad3b9e23ad",
+            "id": "804da4f53729ab50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/OS Notes.md",
+                "file": "NPTEL/Blockchain/2. Block chain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS Notes"
-            }
-          },
-          {
-            "id": "35a6ca4b8046c661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPTEL/Blockchain/Decentralization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Decentralization"
+              "title": "2. Block chain"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,12 +188,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "35a6ca4b8046c661",
+  "active": "804da4f53729ab50",
   "lastOpenFiles": [
+    "NPTEL/Blockchain/attachments/Pasted image 20250121201911.png",
+    "NPTEL/Blockchain/1. Decentralization.md",
+    "NPTEL/Blockchain/2. Block chain.md",
+    "Operating Systems/OS Notes.md",
     "NPTEL/Blockchain/attachments/Pasted image 20250119213749.png",
     "NPTEL/Blockchain/attachments",
-    "Operating Systems/OS Notes.md",
-    "NPTEL/Blockchain/Decentralization.md",
     "NPTEL/Blockchain",
     "NPTEL",
     "Operating Systems/End Semester/Definitions.md",
@@ -246,8 +233,6 @@
     "Miscellaneous/Java servlets - Hello world.md",
     "Miscellaneous/JSP.md",
     "Miscellaneous/attachments/Pasted image 20250103090329.png",
-    "Miscellaneous/attachments/Pasted image 20250103090316.png",
-    "AI/Assignment1.md",
     "Web Technology/attachments",
     "Untitled 1.canvas",
     "attachments",
