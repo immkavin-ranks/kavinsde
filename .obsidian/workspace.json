@@ -11,10 +11,14 @@
             "id": "41bbbd6a68601f3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NPTEL/Blockchain/3. Hash functions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Hash functions"
             }
           }
         ]
@@ -186,6 +190,8 @@
   },
   "active": "41bbbd6a68601f3e",
   "lastOpenFiles": [
+    "Web Technology/Syllabus.md",
+    "AI/Artificial Intelligence and Expert Systems.md",
     "Flutter/Google sign in.md",
     "Flutter/Learning",
     "Board.md",
@@ -217,7 +223,6 @@
     "Biometrics/Syllabus.md",
     "Miscellaneous/Deploy Next JS in IIS, Apache WAMP, Nginx.md",
     "DSA/Anagram Checker.md",
-    "Web Technology/Syllabus.md",
     "Android/Android Introduction.md",
     "Android/Android, Native Android Apps, Android SDK.md",
     "AI/Water Jug Problem.md",
