@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "646519cb2ea3f6bb",
+        "id": "0c09fa63ad424568",
         "type": "tabs",
         "children": [
           {
-            "id": "41bbbd6a68601f3e",
+            "id": "d23ce8aa461544cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Android/Attendance Project.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Attendance Project"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -188,18 +185,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "41bbbd6a68601f3e",
+  "active": "d23ce8aa461544cb",
   "lastOpenFiles": [
-    "NPTEL/Blockchain/3. Hash functions.md",
-    "Android/Attendance Project.md",
+    "dotNET/Assignment.md",
+    "dotNET/dot NET Architecture.md",
+    "Ethical Hacking/Ethical Hacking Unit 4.md",
+    "2025-01-26.md",
+    "Web Technology/Unit 1.md",
     "Web Technology/Syllabus.md",
+    "Untitled Kanban 3.md",
+    "Untitled Kanban 2.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Android/Attendance Project.md",
+    "NPTEL/Blockchain/3. Hash functions.md",
     "AI/Artificial Intelligence and Expert Systems.md",
     "Flutter/Google sign in.md",
     "Flutter/Learning",
     "Board.md",
     "Flutter",
-    "dotNET/dot NET Architecture.md",
-    "dotNET/Assignment.md",
     "NPTEL/Blockchain/2. Block chain.md",
     "NPTEL/Blockchain/attachments/Pasted image 20250121201911.png",
     "NPTEL/Blockchain/1. Decentralization.md",
@@ -224,14 +228,7 @@
     "Biometrics/Syllabus.md",
     "Miscellaneous/Deploy Next JS in IIS, Apache WAMP, Nginx.md",
     "DSA/Anagram Checker.md",
-    "Android/Android Introduction.md",
-    "Android/Android, Native Android Apps, Android SDK.md",
-    "AI/Water Jug Problem.md",
-    "Web Technology/PHP get_result undefined.md",
     "Web Technology/attachments/Pasted image 20250107172852.png",
-    "Web Technology/Assignment - 1.md",
-    "2025-01-03.md",
-    "Untitled Kanban.md",
     "Untitled.canvas",
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 16.43.05_711976b6.jpg",
     "attachments/Recording 20250101164307.webm",
