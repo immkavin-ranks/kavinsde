@@ -18,11 +18,23 @@
 		<em>emphasized text</em>
 	</p>
 
-	<ul>
-		<li>item</li>
-		<li>another item</li>
-	</ul>
-	
+	<div>
+		<ul>
+			<li>item</li>
+			<li>another item</li>
+		</ul>
+
+		<ol>
+			<li>First</li>
+			<li>Second</li>
+		</ol>
+	</div>
+
+	<img src="URL" />
+
+	<video src="URL" width="320" height="240" controls>
+		Video not supported
+	</video>
 </div>
 
 </body>
