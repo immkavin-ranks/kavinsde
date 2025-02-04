@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d1c5796547237de",
+        "id": "c5729894c85496d3",
         "type": "tabs",
         "children": [
           {
-            "id": "16fb13a68b128bcd",
+            "id": "8ccecfbc9da49145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Technology/Notes.md",
+                "file": "AI/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "index"
             }
           }
         ]
@@ -189,23 +189,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "16fb13a68b128bcd",
+  "active": "6d769a505005d5a2",
   "lastOpenFiles": [
-    "Web Technology/Unit 1.md",
+    "AI/index.md",
+    "AI/Secrets.md",
+    "AI/Artificial Intelligence and Expert Systems.md",
+    "AI/Assignment.md",
+    "Web Technology/Syllabus.md",
     "Web Technology/Notes.md",
+    "Web Technology/Unit 1.md",
+    "Data and Communication networks/End Semester/Networks - End Semester.md",
+    "Data and Communication networks/DCN Notes.md",
+    "Android/Attendance Project.md",
     "Web Technology/PHP get_result undefined.md",
     "dotNET/Assignment.md",
     "dotNET/dot NET Architecture.md",
     "Ethical Hacking/Ethical Hacking Unit 4.md",
     "2025-01-26.md",
-    "Web Technology/Syllabus.md",
     "Untitled Kanban 3.md",
     "Untitled Kanban 2.md",
     "Untitled Kanban 1.md",
     "Untitled Kanban.md",
-    "Android/Attendance Project.md",
     "NPTEL/Blockchain/3. Hash functions.md",
-    "AI/Artificial Intelligence and Expert Systems.md",
     "Flutter/Google sign in.md",
     "Flutter/Learning",
     "Board.md",
@@ -219,19 +224,14 @@
     "NPTEL/Blockchain",
     "NPTEL",
     "Operating Systems/End Semester/Definitions.md",
-    "Web Dev Bootcamp/ICP Resources.md",
     "Web Dev Bootcamp/attachments/Pasted image 20250118192941.png",
     "Web Dev Bootcamp/attachments",
-    "Miscellaneous/Remote Method Invocation in Java.md",
     "Miscellaneous/attachments/Screenshot 2025-01-18 133233.png",
     "Miscellaneous/attachments/Pasted image 20250118135044.png",
     "Miscellaneous/attachments/Pasted image 20250118134152.png",
     "Miscellaneous/attachments/Screenshot 2025-01-18 133146.png",
     "Miscellaneous/attachments/Screenshot 2025-01-18 132510.png",
-    "Resources/Get Started with Drizzle and Supabase.md",
     "Resources",
-    "Biometrics/Unit 1.md",
-    "Biometrics/Syllabus.md",
     "Web Technology/attachments/Pasted image 20250107172852.png",
     "Untitled.canvas",
     "Web Technology/attachments/WhatsApp Image 2024-12-09 at 16.43.05_711976b6.jpg",

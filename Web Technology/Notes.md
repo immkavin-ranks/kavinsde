@@ -9,3 +9,6 @@ https://www.codecademy.com/resources/docs/html
 >An id attribute uniquely identifies an element for linking, scripting, styling
 
 header, main, section, footer, small
+
+HTML Element => An HTML tag and the content it contains or marks up
+
