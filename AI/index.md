@@ -10,7 +10,7 @@
 
 >Although expert skills require knowledge that many of us do not have, they often require much less knowledge than do the more mundane skills and that knowledge is usually easier to represent and deal with inside programs.
 
-### Some of the Task Domains of Artificial Intelligence
+## Some of the Task Domains of Artificial Intelligence
 
 **Mundane Tasks**
 1. Perception
@@ -42,3 +42,19 @@
 2. Scientific analysis
 3. Medical diagnosis
 4. Financial analysis
+
+# The underlying assumption about Intelligence
+
+**Physical symbol system hypothesis**
+
+>It also forms the basis of the belief that it is possible to build programs that can perform intelligent tasks now performed by people.
+
+# AI Technique
+
+- Intelligence requires knowledge
+- To compensate for its one overpowering asset, indispensability, knowledge possesses some less desirable properties. including:
+	1. It is voluminous.
+	2. It is hard to characterize accurately.
+	3. It is constantly changing.
+	4. It differs from data by being organized in a way that corresponds to the ways it will be used.
+
