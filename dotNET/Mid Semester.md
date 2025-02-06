@@ -41,10 +41,11 @@
 - .NET Framework Class Library (FCL)
 
 3. **Design Goals of .NET Framework:**
-- Language independence
+- Language independence - Interoperability
 - Platform independence
-- Secure execution environment
+- Secure execution environment - Security
 - Simplified deployment model
+- High Performance 
 
 4. **Role of CLR in .NET:**
 - Manages code execution
