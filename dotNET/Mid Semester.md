@@ -279,11 +279,7 @@
     ```
     
 7. **Do While Loop**
-    
-    vb
-    
-    Type into Obsidian.exe Copy
-    
+
     ```vb
     Dim counter As Integer = 1
     Do While counter <= 5
@@ -293,11 +289,7 @@
     ```
     
 8. **Do Until Loop**
-    
-    vb
-    
-    Type into Obsidian.exe Copy
-    
+
     ```vb
     Dim number As Integer = 1
     Do Until number > 5
@@ -308,10 +300,6 @@
     
 9. **While Loop**
     
-    vb
-    
-    Type into Obsidian.exe Copy
-    
     ```vb
     Dim x As Integer = 1
     While x <= 5
@@ -321,11 +309,7 @@
     ```
     
 10. **Exit and Continue Statements**
-    
-    vb
-    
-    Type into Obsidian.exe Copy
-    
+
     ```vb
     For i As Integer = 1 To 10
         If i = 5 Then
@@ -337,7 +321,6 @@
         Console.WriteLine(i)
     Next
     ```
-    
 
 **Key Points:**
 
@@ -355,3 +338,381 @@
 3. Use proper indentation for readability
 4. Consider performance implications in loops
 5. Use appropriate exit conditions to prevent infinite loops
+
+>**Methods and Arrays in VB.NET**
+
+### Part 1: Methods
+
+1. **Function Methods**
+   
+    ```vb
+    Public Function CalculateArea(length As Double, width As Double) As Double
+        Return length * width
+    End Function
+    
+    ' Calling the function
+    Dim area As Double = CalculateArea(10.5, 5.2)
+    ```
+    
+2. **Sub Procedures**
+   
+    ```vb
+    Public Sub DisplayMessage(name As String)
+        Console.WriteLine("Hello, " & name)
+    End Sub
+    
+    ' Calling the sub
+    DisplayMessage("John")
+    ```
+    
+3. **Optional Parameters**
+    
+
+    ```vb
+    Public Function CalculateSalary(base As Double, Optional bonus As Double = 0) As Double
+        Return base + bonus
+    End Function
+    
+    ' Can be called both ways
+    Dim salary1 = CalculateSalary(50000)
+    Dim salary2 = CalculateSalary(50000, 5000)
+    ```
+    
+4. **ByRef and ByVal Parameters**
+    
+    ```vb
+    Public Sub SwapNumbers(ByRef x As Integer, ByRef y As Integer)
+        Dim temp As Integer = x
+        x = y
+        y = temp
+    End Sub
+    ```
+    
+5. **Function Overloading**
+  
+    ```vb
+    Public Function Add(x As Integer, y As Integer) As Integer
+        Return x + y
+    End Function
+    
+    Public Function Add(x As Double, y As Double) As Double
+        Return x + y
+    End Function
+    ```
+    
+
+### Part 2: Arrays
+
+6. **Single-Dimensional Arrays**
+
+    ```vb
+    ' Declaration and initialization
+    Dim numbers(4) As Integer  ' Creates array of 5 elements (0 to 4)
+    numbers = New Integer() {10, 20, 30, 40, 50}
+    
+    ' Accessing elements
+    Console.WriteLine(numbers(2))  ' Outputs 30
+    ```
+    
+7. **Multi-Dimensional Arrays**
+    
+    ```vb
+    ' 2D array declaration
+    Dim matrix(1, 2) As Integer  ' 2x3 array
+    
+    ' Initialization
+    matrix(0, 0) = 1
+    matrix(0, 1) = 2
+    matrix(0, 2) = 3
+    matrix(1, 0) = 4
+    matrix(1, 1) = 5
+    matrix(1, 2) = 6
+    ```
+    
+8. **Array Methods and Properties**
+    
+    ```vb
+    Dim fruits() As String = {"Apple", "Banana", "Orange"}
+    
+    ' Common array operations
+    Console.WriteLine(fruits.Length)        ' Array length
+    Array.Sort(fruits)                      ' Sorting array
+    Array.Reverse(fruits)                   ' Reversing array
+    Dim index As Integer = Array.IndexOf(fruits, "Banana")  ' Finding index
+    ```
+    
+9. **Jagged Arrays**
+   
+    ```vb
+    ' Array of arrays
+    Dim jaggedArray()() As Integer = New Integer(2)() {}
+    jaggedArray(0) = New Integer() {1, 2, 3}
+    jaggedArray(1) = New Integer() {4, 5}
+    jaggedArray(2) = New Integer() {6, 7, 8, 9}
+    ```
+    
+10. **Array Operations and Loops**
+    
+    ```vb
+    ' Using For Each loop with arrays
+    Dim scores() As Integer = {85, 92, 78, 95, 88}
+    Dim sum As Integer = 0
+    
+    For Each score As Integer In scores
+        sum += score
+    Next
+    
+    Dim average As Double = sum / scores.Length
+    ```
+    
+
+**Key Points:**
+
+1. Methods provide code reusability and modularity
+2. Arrays enable storing multiple values of the same type
+3. Both support various operations and manipulations
+4. Proper error handling should be implemented
+5. Performance considerations should be taken into account
+
+**Best Practices:**
+
+6. Use meaningful method and variable names
+7. Include appropriate parameter validation
+8. Consider array bounds when accessing elements
+9. Document complex methods and array operations
+10. Use appropriate array types for specific needs
+
+This comprehensive structure helps in creating efficient and maintainable code while properly handling both methods and arrays in VB.NET applications.
+
+>OOPS
+
+1. **Classes and Objects:** VB.NET uses classes as blueprints, allowing you to create objects with properties, methods, and events.
+2. **Encapsulation:** The language offers mechanisms like access modifiers (Public, Private, Protected, Friend) to bundle data and behavior while restricting access.
+3. **Inheritance:** VB.NET enables one class to inherit from another, promoting code reuse and establishing a hierarchical relationship between classes.
+4. **Polymorphism:** Through method overriding and interfaces, VB.NET supports runtime polymorphism, letting different classes define their specific implementations of shared methods.
+5. **Abstraction:** The language allows abstract classes and methods (using MustInherit and MustOverride keywords) to define common templates for derived classes.
+6. **Interfaces:** VB.NET supports interfaces to define contracts that classes must follow, ensuring consistent method implementation across unrelated classes.
+7. **Method Overloading:** You can have multiple methods with the same name but different parameters, which enhances readability and functionality.
+8. **Properties:** VB.NET provides properties with Get and Set procedures to offer a controlled way of accessing and modifying class data.
+9. **Event Handling:** The language has a built-in event handling mechanism to implement reactive and interactive behaviors in your applications.
+10. **Partial Classes:** VB.NET supports splitting class definitions across multiple files, which improves code organization and maintainability.
+
+
+Based on the clipboard text and context showing VB.NET OOP concepts, here's a 10-mark answer:
+
+### Object-Oriented Programming Features in VB.NET
+
+1. **Classes and Objects**
+    
+    - Classes serve as blueprints for creating objects
+    - Objects are instances with properties, methods, and events
+    - Example:
+
+    ```vb
+    Public Class Employee
+        Public Property Name As String
+        Public Property Salary As Decimal
+    End Class
+    ```
+    
+2. **Encapsulation**
+    
+    - Bundles data and methods into a single unit
+    - Uses access modifiers (Public, Private, Protected, Friend)
+    - Controls access to internal implementation
+    - Example:
+    
+    ```vb
+    Private _balance As Decimal
+    Public Property Balance As Decimal
+        Get
+            Return _balance
+        End Get
+        Private Set(value As Decimal)
+            _balance = value
+        End Set
+    End Property
+    ```
+    
+3. **Inheritance**
+    
+    - Enables code reuse through class hierarchies
+    - Supports single inheritance
+    - Example:
+    
+    ```vb
+    Public Class Manager
+        Inherits Employee
+        Public Property Department As String
+    End Class
+    ```
+    
+4. **Polymorphism**
+    
+    - Allows method overriding and overloading
+    - Supports runtime polymorphism through interfaces
+    - Example:
+    
+    ```vb
+    Public Overridable Function CalculateSalary() As Decimal
+        Return BaseSalary
+    End Function
+    ```
+    
+5. **Abstraction**
+    
+    - Uses MustInherit and MustOverride keywords
+    - Creates abstract classes and methods
+    - Example:
+    
+    ```vb
+    Public MustInherit Class Shape
+        Public MustOverride Function CalculateArea() As Double
+    End Class
+    ```
+
+Here's a 5-mark answer explaining the .NET framework architecture:
+
+### .NET Framework Architecture
+
+1. **Top Layer - Application Layer**
+    
+    - Windows Forms Applications
+    - ASP.NET Web Applications
+    - WPF (Windows Presentation Foundation)
+    - Console Applications
+2. **Middle Layer - Framework Class Library (FCL)**
+    
+    - Base Class Library (BCL)
+    - ADO.NET for data access
+    - ASP.NET for web services
+    - Windows Forms for GUI
+3. **Bottom Layer - Common Language Runtime (CLR)**
+    
+    - Memory Management
+    - Security Management
+    - Exception Handling
+    - Garbage Collection
+4. **Key Components**
+    
+    - Just-In-Time (JIT) Compiler
+    - Common Type System (CTS)
+    - Common Language Specification (CLS)
+
+```plaintext
++----------------------------------------+
+|           Applications                  |
+|   (Windows Forms, ASP.NET, WPF)        |
++----------------------------------------+
+|     Framework Class Library (FCL)       |
+|     Base Class Library (BCL)           |
++----------------------------------------+
+|   Common Language Runtime (CLR)         |
+|   JIT Compiler | CTS | CLS             |
++----------------------------------------+
+|          Operating System              |
++----------------------------------------+
+```
+
+The architecture shows how .NET applications are built on layers of framework components, with CLR providing the foundation for execution and management.
+
+Here's a 5-mark answer explaining indexes in VB.NET:
+
+### Indexes in VB.NET
+
+1. **Definition**
+    
+    - Indexes provide a way to access elements in a collection or array
+    - Allow objects to be accessed using array-like syntax
+    - Can be read-only or read-write
+2. **Basic Syntax**
+
+```vb
+Public Property Item(index As Integer) As String
+    Get
+        Return elements(index)
+    End Get
+    Set(value As String)
+        elements(index) = value
+    End Set
+End Property
+```
+
+1. **Practical Example**
+
+```vb
+Public Class BookCollection
+    Private books() As String = New String(9) {}
+    
+    Default Public Property Item(index As Integer) As String
+        Get
+            Return books(index)
+        End Get
+        Set(value As String)
+            books(index) = value
+        End Set
+    End Property
+End Class
+```
+
+2. **Usage Example**
+
+```vb
+Dim myBooks As New BookCollection
+myBooks(0) = "Programming in VB.NET"
+Dim firstBook As String = myBooks(0)
+```
+
+3. **Key Features**
+    - Can have multiple parameters
+    - Support different data types
+    - Enable natural array-like access
+    - Help create more intuitive APIs
+
+Here's a 5-mark answer explaining .NET applications:
+
+### .NET Applications
+
+1. **Definition**
+    
+    - Software applications built using .NET Framework
+    - Run on Common Language Runtime (CLR)
+    - Can be Windows, web, or console-based applications
+2. **Types of .NET Applications**
+    
+    - Windows Forms Applications
+    - ASP.NET Web Applications
+    - Console Applications
+    - WPF Applications
+    - Web Services
+3. **Example: Simple Console Application**
+
+
+```vb
+Module Program
+    Sub Main()
+        Console.WriteLine("Welcome to .NET!")
+        
+        Dim name As String
+        Console.Write("Enter your name: ")
+        name = Console.ReadLine()
+        
+        Console.WriteLine("Hello, " & name)
+        Console.ReadKey()
+    End Sub
+End Module
+```
+
+4. **Key Components Used**
+    
+    - .NET Framework Classes
+    - Common Language Runtime
+    - Base Class Libraries
+    - Language-specific Features
+5. **Benefits**
+    
+    - Platform Independence
+    - Enhanced Security
+    - Rich Class Libraries
+    - Easy Deployment
+    - Language Interoperability
