@@ -8,6 +8,24 @@ Four major aspects of information security:
 - Availability - guarantee timely and reliable access to and use of information.
 - Authentication - only legitimate and authorized users should be able to access the data and carry out specific tasks.
 
+>It is generally agreed that biometric recognition can effectively address the authentication problem. 
+
+- Since biometric traits cannot be easily lost, stolen, misplaced, or shared, biometric recognition offers a natural and more reliable authentication solution compared to other techniques such as passwords or physical tokens (e.g., ID cards). 
+- This is the reason why biometric systems are being increasingly deployed to control access to other information systems. 
+
+## Privacy Concerns associated with the Biometric Deployments
+
+>It is important to realize that a biometric system is just one component of the overall information security solution because it address only the authentication aspect
+
+Other technologies such as encryption, digital signature, etc. are needed to meet the confidentiality, integrity, and availability requirements of the total information system.
+
+If the biometric system is compromised or circumvented, the security of the entire information system gets affected. 
+
+ Privacy refers to the right of the a person to be left alone, i.e., the ability to lead one’s own life free from intrusions, to remain anonymous, and to control access to one’s own personal information. 
+
+When the breach of security in an information system leads to personal and subjective harm to the person involved, it can be termed as loss of privacy.
+
+
 ## Soft Biometrics 
 
 There are many situations where primary biometric traits (i.e., face, fingerprint and iris) are either corrupted or unavailable, and the soft biometric information is the only available clue to solving a crime.
@@ -16,7 +34,8 @@ For example, while a surveillance video may not capture the complete face of a s
 
 We will discuss some of the soft biometric traits (i.e., periocular, facial marks, and tattoos) below. 
 
-The periocular biometric is gaining increasing attention since it offers a trade-off between using the entire face image and the iris portion only. Facial marks and tattoos are also gaining widespread attention since they offer complementary information that can be exploited along with primary biometric traits.
+- The periocular biometric is gaining increasing attention since it offers a trade-off between using the entire face image and the iris portion only. 
+- Facial marks and tattoos are also gaining widespread attention since they offer complementary information that can be exploited along with primary biometric traits.
 
 ### Periocular
 
