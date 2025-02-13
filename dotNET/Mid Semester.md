@@ -571,8 +571,6 @@ Based on the clipboard text and context showing VB.NET OOP concepts, here's a 10
     End Class
     ```
 
-Here's a 5-mark answer explaining the .NET framework architecture:
-
 ### .NET Framework Architecture
 
 1. **Top Layer - Application Layer**
@@ -615,8 +613,6 @@ Here's a 5-mark answer explaining the .NET framework architecture:
 ```
 
 The architecture shows how .NET applications are built on layers of framework components, with CLR providing the foundation for execution and management.
-
-Here's a 5-mark answer explaining indexes in VB.NET:
 
 ### Indexes in VB.NET
 
@@ -669,24 +665,19 @@ Dim firstBook As String = myBooks(0)
     - Enable natural array-like access
     - Help create more intuitive APIs
 
-Here's a 5-mark answer explaining .NET applications:
-
 ### .NET Applications
 
 1. **Definition**
-    
     - Software applications built using .NET Framework
     - Run on Common Language Runtime (CLR)
     - Can be Windows, web, or console-based applications
 2. **Types of .NET Applications**
-    
     - Windows Forms Applications
     - ASP.NET Web Applications
     - Console Applications
     - WPF Applications
     - Web Services
 3. **Example: Simple Console Application**
-
 
 ```vb
 Module Program
@@ -703,14 +694,12 @@ Module Program
 End Module
 ```
 
-4. **Key Components Used**
-    
+1. **Key Components Used**
     - .NET Framework Classes
     - Common Language Runtime
     - Base Class Libraries
     - Language-specific Features
-5. **Benefits**
-    
+2. **Benefits**
     - Platform Independence
     - Enhanced Security
     - Rich Class Libraries
@@ -719,32 +708,32 @@ End Module
 
 ### Design Goals of .NET Framework
 
-1. **Platform Independence**
+3. **Platform Independence**
     
     - Write once, run anywhere philosophy
     - Cross-platform compatibility
     - Support for multiple operating systems
     - Hardware independence
-2. **Language Interoperability**
+4. **Language Interoperability**
     
     - Support for multiple programming languages
     - Common Type System (CTS)
     - Common Language Specification (CLS)
     - Seamless integration between languages
-3. **Security and Performance**
+5. **Security and Performance**
     
     - Built-in security features
     - Code access security
     - Role-based security
     - High-performance execution
     - Efficient memory management
-4. **Simplified Development**
+6. **Simplified Development**
     
     - Rich class libraries
     - Consistent programming model
     - Reusable components
     - Rapid application development
-5. **Easy Deployment**
+7. **Easy Deployment**
     
     - Simple installation process
     - Version control management

@@ -58,3 +58,12 @@
 	3. It is constantly changing.
 	4. It differs from data by being organized in a way that corresponds to the ways it will be used.
 
+
+Types of Knowledge
+
+- Declarative knowledge - The sky is blue
+- Heuristic Knowledge - If it's cloudy, it might rain
+- Domain-Specific Knowledge - Medical diagnosis 
+- Common-Sense Knowledge - People eat when they are hungry
+- Relational Knowledge - A dog has a tail
+
