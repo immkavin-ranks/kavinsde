@@ -103,9 +103,9 @@ When the breach of security in an information system leads to personal and subje
 | Biometric Type     | Data Collected                                            | Privacy Concerns                                                                                        | Potential Misuse                                                        | Accuracy                                             |
 | ------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------- |
 | Fingerprint        | Ridge patterns of fingers                                 | Can be left on surfaces, potential for unauthorized access, database vulnerability                      | Tracking, identification without consent, creation of fake fingerprints | High                                                 |
-| Facial Recognition | Facial features (distance between eyes, nose shape, etc.) | Mass surveillance potential, bias in algorithms, tracking without consent, data breaches                | Profiling, targeted advertising, discriminatory practices               | High (but can be affected by lighting, angles, etc.) |
+| Facial Recognition | Facial features (distance between eyes, nose shape, etc.) | Mass surveillance potential, bias in algorithms, tracking without consent, data breaches                | Profiling                                                               | High (but can be affected by lighting, angles, etc.) |
 | Iris Scan          | Patterns in the iris of the eye                           | Requires close proximity, potential for data breaches, less common than other biometrics                | Tracking, identification without consent                                | Very High                                            |
-| DNA                | Genetic information                                       | Highly sensitive data, reveals ancestry and health information, potential for misuse and discrimination | Genetic profiling, discrimination based on genetic predispositions      | Very High (but collection can be invasive)           |
+| DNA                | Genetic information                                       | Highly sensitive data, reveals ancestry and health information, potential for misuse and discrimination | Genetic profiling                                                       | Very High                                            |
 
 ---
 
@@ -124,7 +124,7 @@ We will discuss some of the soft biometric traits (i.e., periocular, facial mark
 
 ### Periocular
 
->The periocular region represents the region around the eyes. It predominantly consists of the skin, eyebrow, and eye. 
+>The periocular region represents the region around the eyes. It predominantly consists of the<mark style="background: #FFB86CA6;"> skin, eyebrow, and eye. </mark>
 
 The use of the periocular region as a biometric cue represents a good trade-off between using the entire face region or using only the iris for recognition. 
 
