@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2bbf55cd3f52193a",
+        "id": "f38be29ae5a84288",
         "type": "tabs",
         "children": [
           {
-            "id": "39a702d7ea8e3b03",
+            "id": "80895c6ebb33e692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biometrics/Privacy Enhancement using Biometrics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Privacy Enhancement using Biometrics"
+              "title": "New tab"
             }
           }
         ]
@@ -189,10 +185,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "39a702d7ea8e3b03",
+  "active": "80895c6ebb33e692",
   "lastOpenFiles": [
-    "Biometrics/Syllabus.md",
+    "AI/IMPACTS AND INFLUENCES OF AI.md",
+    "AI/attachments/Kavin's Work.png",
+    "Private/Android Login with Face Recognition/Android Login with Face Recognition.md",
+    "Private/Android Login with Face Recognition",
+    "Private",
+    "New folder",
+    "AI/Water Jug Problem.md",
+    "AI/Secrets.md",
+    "AI/Resources.md",
+    "AI/index.md",
+    "AI/Assignment1.md",
+    "AI/Assignment.md",
+    "AI/Artificial Intelligence and Expert Systems.md",
+    "Web Technology/Syllabus.md",
     "Biometrics/Privacy Enhancement using Biometrics.md",
+    "dotNET/Assignment.md",
+    "Web Technology/Notes.md",
+    "Kavin Docs/U22BCA141.md",
+    "Biometrics/Syllabus.md",
     "Biometrics/attachments/Pasted image 20250213224433.png",
     "Biometrics/attachments/Pasted image 20250213224056.png",
     "Biometrics/attachments/Pasted image 20250213224019.png",
@@ -200,28 +213,15 @@
     "Biometrics/attachments/Pasted image 20250213223618.png",
     "Biometrics/attachments/Pasted image 20250213222337.png",
     "Biometrics/Unit 1.md",
-    "AI/Resources.md",
-    "AI/Secrets.md",
-    "AI/Assignment1.md",
-    "AI/Artificial Intelligence and Expert Systems.md",
-    "AI/index.md",
-    "AI/Assignment.md",
-    "AI/Water Jug Problem.md",
     "Blockchain/Blockchain Technology.md",
     "Blockchain/Resources.md",
     "Blockchain/Introduction.md",
     "Blockchain/Important terms.md",
     "Untitled.md",
-    "Kavin Docs/U22BCA141.md",
     "dotNET/Mid Semester.md",
     "dotNET/dot NET Architecture.md",
-    "dotNET/Assignment.md",
-    "Web Technology/Syllabus.md",
-    "Web Technology/Notes.md",
     "Web Technology/Unit 1.md",
     "Data and Communication networks/End Semester/Networks - End Semester.md",
-    "Data and Communication networks/DCN Notes.md",
-    "Android/Attendance Project.md",
     "Flutter/Learning",
     "Flutter",
     "NPTEL/Blockchain/attachments/Pasted image 20250121201911.png",
@@ -231,13 +231,9 @@
     "NPTEL",
     "Web Dev Bootcamp/attachments/Pasted image 20250118192941.png",
     "Web Dev Bootcamp/attachments",
-    "Miscellaneous/attachments/Screenshot 2025-01-18 133233.png",
     "Resources",
     "Untitled.canvas",
-    "attachments/Recording 20250101164307.webm",
-    "Web Technology/attachments",
     "Untitled 1.canvas",
-    "attachments",
     "Data and Communication networks/hybrid topology.canvas"
   ]
 }
