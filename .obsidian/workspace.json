@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f38be29ae5a84288",
+        "id": "14cbade4eb5367db",
         "type": "tabs",
         "children": [
           {
-            "id": "80895c6ebb33e692",
+            "id": "9edf92832c69bfe7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -185,8 +185,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80895c6ebb33e692",
+  "active": "9edf92832c69bfe7",
   "lastOpenFiles": [
+    "Biometrics/Multimodal Biometrics.md",
+    "Biometrics/Privacy Enhancement using Biometrics.md",
+    "Biometrics/Syllabus.md",
+    "Biometrics/Unit 1.md",
+    "Web Technology/Syllabus.md",
     "AI/IMPACTS AND INFLUENCES OF AI.md",
     "AI/attachments/Kavin's Work.png",
     "Private/Android Login with Face Recognition/Android Login with Face Recognition.md",
@@ -200,19 +205,15 @@
     "AI/Assignment1.md",
     "AI/Assignment.md",
     "AI/Artificial Intelligence and Expert Systems.md",
-    "Web Technology/Syllabus.md",
-    "Biometrics/Privacy Enhancement using Biometrics.md",
     "dotNET/Assignment.md",
     "Web Technology/Notes.md",
     "Kavin Docs/U22BCA141.md",
-    "Biometrics/Syllabus.md",
     "Biometrics/attachments/Pasted image 20250213224433.png",
     "Biometrics/attachments/Pasted image 20250213224056.png",
     "Biometrics/attachments/Pasted image 20250213224019.png",
     "Biometrics/attachments/Pasted image 20250213223816.png",
     "Biometrics/attachments/Pasted image 20250213223618.png",
     "Biometrics/attachments/Pasted image 20250213222337.png",
-    "Biometrics/Unit 1.md",
     "Blockchain/Blockchain Technology.md",
     "Blockchain/Resources.md",
     "Blockchain/Introduction.md",
