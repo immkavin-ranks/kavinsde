@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "14cbade4eb5367db",
+        "id": "7e0914e0aa7b5c29",
         "type": "tabs",
         "children": [
           {
-            "id": "9edf92832c69bfe7",
+            "id": "686987b8ed0d0ab3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AI/IMPACTS AND INFLUENCES OF AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IMPACTS AND INFLUENCES OF AI"
             }
           }
         ]
@@ -185,14 +189,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9edf92832c69bfe7",
+  "active": "686987b8ed0d0ab3",
   "lastOpenFiles": [
     "Biometrics/Multimodal Biometrics.md",
-    "Biometrics/Privacy Enhancement using Biometrics.md",
     "Biometrics/Syllabus.md",
+    "AI/IMPACTS AND INFLUENCES OF AI.md",
+    "AI/Assignment1.md",
+    "AI/Artificial Intelligence and Expert Systems.md",
+    "Biometrics/Privacy Enhancement using Biometrics.md",
     "Biometrics/Unit 1.md",
     "Web Technology/Syllabus.md",
-    "AI/IMPACTS AND INFLUENCES OF AI.md",
     "AI/attachments/Kavin's Work.png",
     "Private/Android Login with Face Recognition/Android Login with Face Recognition.md",
     "Private/Android Login with Face Recognition",
@@ -202,9 +208,7 @@
     "AI/Secrets.md",
     "AI/Resources.md",
     "AI/index.md",
-    "AI/Assignment1.md",
     "AI/Assignment.md",
-    "AI/Artificial Intelligence and Expert Systems.md",
     "dotNET/Assignment.md",
     "Web Technology/Notes.md",
     "Kavin Docs/U22BCA141.md",

@@ -1,9 +1,3 @@
-## Multimodal Biometrics
-- Multimodal biometrics involve using multiple sources of data, like fingerprints, facial features, iris scans, voice recognition, etc., to enhance security and accuracy in identity verification.
-- This approach is more reliable than using a single biometric modality, as it combines different traits to reduce the risk of false positives or negatives.
-- Multimodal biometric authentication combines two or more identifiers, such as fingerprint, face, or iris, to either enhance the user-experience or boost the security (or both!) of user authentication.
-- A multi-modal system combining fingerprint and finger vein characteristics for biometric recognition would be considered a "multi-modal" system regardless of whether fingerprint and finger vein images were captured by different or the same biometric devices.
-
 ## Characteristics of multimodal biometrics
 - **Enhanced Accuracy**: Multimodal biometrics leverages the strengths of multiple biometric modalities, reducing the risk of false acceptances or rejections and increasing overall accuracy.
 - **Robustness:** Combining different biometric traits compensates for individual variations, environmental factors, and changes over time, leading to more reliable identification.
