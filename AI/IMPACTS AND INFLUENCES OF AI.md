@@ -15,7 +15,7 @@ Absolutely, here's a concise 3-minute presentation script for the poster titled 
 ---
 
 **Introduction:**
-"Good day everyone, thank you for joining me. Today, I am excited to present the poster 'AI Impacts & Influences,' which highlights the diverse applications of artificial intelligence in our modern world."
+"Good day everyone, thank you for joining me. Today, I am excited to present my poster 'AI Impacts & Influences,' which highlights the diverse applications of artificial intelligence in our modern world."
 
 **Main Body:**
 "The central theme of the poster is the transformative impact of AI across various sectors. At the heart of the design, we see a collage that features several key elements:
@@ -30,7 +30,7 @@ Absolutely, here's a concise 3-minute presentation script for the poster titled 
 "The poster's vibrant colors and modern design immediately capture attention. The use of a balanced layout and clear visual hierarchy ensures that viewers can easily understand the breadth of AI applications."
 
 **Conclusion:**
-"In summary, this poster effectively communicates the multifaceted impact of AI on our daily lives and future. It serves as a reminder of the endless possibilities AI brings to different sectors. Thank you for your attention, and I'm happy to take any questions you might have."
+"In summary, my poster effectively communicates the multifaceted impact of AI on our daily lives and future. It serves as a reminder of the endless possibilities AI brings to different sectors. Thank you for your attention, and I'm happy to take any questions you might have."
 
 ---
 

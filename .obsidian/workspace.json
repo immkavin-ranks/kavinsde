@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e0914e0aa7b5c29",
+        "id": "da3e717e86e9f54e",
         "type": "tabs",
         "children": [
           {
-            "id": "686987b8ed0d0ab3",
+            "id": "5fd476d86c0b4d33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/IMPACTS AND INFLUENCES OF AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "IMPACTS AND INFLUENCES OF AI"
+              "title": "New tab"
             }
           }
         ]
@@ -189,11 +185,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "686987b8ed0d0ab3",
+  "active": "5fd476d86c0b4d33",
   "lastOpenFiles": [
+    "Data and Communication networks/End Semester/Networks - End Semester.md",
+    "Data and Communication networks/DCN Notes.md",
+    "Data and Communication networks/hybrid topology.canvas",
     "Biometrics/Multimodal Biometrics.md",
-    "Biometrics/Syllabus.md",
     "AI/IMPACTS AND INFLUENCES OF AI.md",
+    "Biometrics/Syllabus.md",
     "AI/Assignment1.md",
     "AI/Artificial Intelligence and Expert Systems.md",
     "Biometrics/Privacy Enhancement using Biometrics.md",
@@ -225,8 +224,6 @@
     "Untitled.md",
     "dotNET/Mid Semester.md",
     "dotNET/dot NET Architecture.md",
-    "Web Technology/Unit 1.md",
-    "Data and Communication networks/End Semester/Networks - End Semester.md",
     "Flutter/Learning",
     "Flutter",
     "NPTEL/Blockchain/attachments/Pasted image 20250121201911.png",
@@ -238,7 +235,6 @@
     "Web Dev Bootcamp/attachments",
     "Resources",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Data and Communication networks/hybrid topology.canvas"
+    "Untitled 1.canvas"
   ]
 }
